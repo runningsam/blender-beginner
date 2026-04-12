@@ -5,12 +5,15 @@
 ​Thank you for reading and learning with me!​
 ​Happy Blending!​
 ​Bye, see you next time :D​
-​Chapter 25 - Modeling, texturing and​​animating a magic potion​​(Blender Version 4.2.1)​
+​Chapter 25 - Modeling, texturing and​
+​animating a magic potion​
+​(Blender Version 4.2.1)​
 ​This time you will learn how to model, texture and animate a magic potion.​
-​(You can check out video tutorial on my YouTube channel:​​https://youtu.be/msj0kz-dOP8​​)​
+​(You can check out video tutorial on my YouTube channel:​
+​https://youtu.be/msj0kz-dOP8​
+​)​
 ​Let’s begin!​
 ​Select all with “A” and delete with “X.”​
-​77​
 ​Beginners guide to Blender​
 
 ![page_78_img_1.png](../images/page_78_img_1.png)
@@ -20,7 +23,6 @@
 ![page_78_img_2.png](../images/page_78_img_2.png)
 
 ​Duplicate the UV Sphere with “SHIFT+D.”​
-​78​
 ​Beginners guide to Blender​
 
 ![page_79_img_1.png](../images/page_79_img_1.png)
@@ -31,7 +33,6 @@
 
 ​Hide the second UV Sphere with “H” in the viewport or click here on this eye icon to hide it.​
 ​To hide (disable) the object in the render, click on this camera icon.​
-​79​
 ​Beginners guide to Blender​
 
 ![page_80_img_1.png](../images/page_80_img_1.png)
@@ -45,19 +46,19 @@
 ![page_80_img_3.png](../images/page_80_img_3.png)
 
 ​Switch to selecting vertices with 1.​
-​80​
 ​Beginners guide to Blender​
 ​Select this top vertex.​
 
 ![page_81_img_1.png](../images/page_81_img_1.png)
 
-​Now press “CTRL” + numpad “+” to select nearby vertices. Press “+” until you select all​​vertices as shown.​
+​Now press “CTRL” + numpad “+” to select nearby vertices. Press “+” until you select all​
+​vertices as shown.​
 ​If you are on the laptop and you don’t have numpad, go to​
-​Select → More/Less → More and repeat it until you choose all vertices that you need for the​​next step.​
+​Select → More/Less → More and repeat it until you choose all vertices that you need for the​
+​next step.​
 
 ![page_81_img_2.png](../images/page_81_img_2.png)
 
-​81​
 ​Beginners guide to Blender​
 
 ![page_82_img_1.png](../images/page_82_img_1.png)
@@ -66,7 +67,6 @@
 
 ![page_82_img_2.png](../images/page_82_img_2.png)
 
-​82​
 ​Beginners guide to Blender​
 ​Switch to selecting edges with 2 and select this edge with “ALT” + LMB.​
 
@@ -77,7 +77,6 @@
 ![page_83_img_2.png](../images/page_83_img_2.png)
 
 ​Switch to object mode with “TAB”. Click RMB and choose Shade Auto Smooth.​
-​83​
 ​Beginners guide to Blender​
 
 ![page_84_img_1.png](../images/page_84_img_1.png)
@@ -87,7 +86,6 @@
 ![page_84_img_2.png](../images/page_84_img_2.png)
 
 ​Select it and switch to edit mode with “TAB”.​
-​84​
 ​Beginners guide to Blender​
 
 ![page_85_img_1.png](../images/page_85_img_1.png)
@@ -101,7 +99,6 @@
 ![page_85_img_3.png](../images/page_85_img_3.png)
 
 ​Press “X” and delete vertices.​
-​85​
 ​Beginners guide to Blender​
 
 ![page_86_img_1.png](../images/page_86_img_1.png)
@@ -114,7 +111,6 @@
 
 ![page_86_img_3.png](../images/page_86_img_3.png)
 
-​86​
 ​Beginners guide to Blender​
 ​Select all with “A” and press “ALT+E” to extrude faces along the normals.​
 
@@ -128,7 +124,6 @@
 
 ![page_87_img_3.png](../images/page_87_img_3.png)
 
-​87​
 ​Beginners guide to Blender​
 ​Press “ALT+E” and extrude faces along normals.​
 
@@ -139,7 +134,6 @@
 ![page_88_img_2.png](../images/page_88_img_2.png)
 
 ​Go to modifiers. Add modifier —> Generate →  Bevel.​
-​88​
 ​Beginners guide to Blender​
 
 ![page_89_img_1.png](../images/page_89_img_1.png)
@@ -148,12 +142,13 @@
 
 ![page_89_img_2.png](../images/page_89_img_2.png)
 
-​I added 4 segments and amount 0.035 but you can add as much as you want (just be careful​​to not add too much if you need low poly model - a model with less polygons).​
+​I added 4 segments and amount 0.035 but you can add as much as you want (just be careful​
+​to not add too much if you need low poly model - a model with less polygons).​
 
 ![page_89_img_3.png](../images/page_89_img_3.png)
 
-​Now switch to the Rendered mode so you can add lights and materials and see how  magic​​potion looks with proper lighting.​
-​89​
+​Now switch to the Rendered mode so you can add lights and materials and see how  magic​
+​potion looks with proper lighting.​
 ​Beginners guide to Blender​
 ​Now go to render properties, and switch from Render engine Eevee to Cycles.​
 ​Also if you have a good graphics card, you can switch from CPU to GPU.​
@@ -170,7 +165,6 @@
 ![page_90_img_3.png](../images/page_90_img_3.png)
 
 ​Open the shader editor in the window you just created.​
-​90​
 ​Beginners guide to Blender​
 
 ![page_91_img_1.png](../images/page_91_img_1.png)
@@ -183,7 +177,6 @@
 
 ![page_91_img_3.png](../images/page_91_img_3.png)
 
-​91​
 ​Beginners guide to Blender​
 ​Connect Color from the Background with a Color from Sky Texture.​
 
@@ -194,7 +187,6 @@
 ![page_92_img_2.png](../images/page_92_img_2.png)
 
 ​You can switch from Nishita to Hosek/Wilike for a bit different type of sky shader if you want.​
-​92​
 ​Beginners guide to Blender​
 
 ![page_93_img_1.png](../images/page_93_img_1.png)
@@ -207,8 +199,8 @@
 
 ![page_93_img_3.png](../images/page_93_img_3.png)
 
-​Select the first color picker of the Color Ramp and change it to darker blue (or any other color​​you want).​
-​93​
+​Select the first color picker of the Color Ramp and change it to darker blue (or any other color​
+​you want).​
 ​Beginners guide to Blender​
 
 ![page_94_img_1.png](../images/page_94_img_1.png)
@@ -222,7 +214,6 @@
 ![page_94_img_3.png](../images/page_94_img_3.png)
 
 ​Go to material and add a new material.​
-​94​
 ​Beginners guide to Blender​
 
 ![page_95_img_1.png](../images/page_95_img_1.png)
@@ -233,7 +224,6 @@
 ![page_95_img_2.png](../images/page_95_img_2.png)
 
 ​Click on Transmission and put Weight to 1.​
-​95​
 ​Beginners guide to Blender​
 
 ![page_96_img_1.png](../images/page_96_img_1.png)
@@ -247,7 +237,6 @@
 ![page_96_img_3.png](../images/page_96_img_3.png)
 
 ​Select the Sphere and scale it just a little bit with an “S” to make it smaller than the bottle.​
-​96​
 ​Beginners guide to Blender​
 
 ![page_97_img_1.png](../images/page_97_img_1.png)
@@ -258,7 +247,6 @@
 ![page_97_img_2.png](../images/page_97_img_2.png)
 
 ​Click on Transmission and put Weight to 1.​
-​97​
 ​Beginners guide to Blender​
 
 ![page_98_img_1.png](../images/page_98_img_1.png)
@@ -267,11 +255,11 @@
 
 ![page_98_img_2.png](../images/page_98_img_2.png)
 
-​Because you didn’t add strength to the emission, you can’t see green color yet. Change​​strength from 0 to any number you want. I changed it to 0.7.​
+​Because you didn’t add strength to the emission, you can’t see green color yet. Change​
+​strength from 0 to any number you want. I changed it to 0.7.​
 
 ![page_98_img_3.png](../images/page_98_img_3.png)
 
-​98​
 ​Beginners guide to Blender​
 ​Switch to the world shader.​
 
@@ -282,7 +270,6 @@
 ![page_99_img_2.png](../images/page_99_img_2.png)
 
 ​Add → Shader → Mix Shader and put it between Background and Material Output node.​
-​99​
 ​Beginners guide to Blender​
 
 ![page_100_img_1.png](../images/page_100_img_1.png)
@@ -291,12 +278,12 @@
 
 ![page_100_img_2.png](../images/page_100_img_2.png)
 
-​Connect Fac from the Mix Shader node with an Is Camera Ray from the Light Path Shader​​so that you change the sky to a flat color without affecting the lighting.​
+​Connect Fac from the Mix Shader node with an Is Camera Ray from the Light Path Shader​
+​so that you change the sky to a flat color without affecting the lighting.​
 
 ![page_100_img_3.png](../images/page_100_img_3.png)
 
 ​Change the color of the Background to the Black (or any other that you like).​
-​100​
 ​Beginners guide to Blender​
 
 ![page_101_img_1.png](../images/page_101_img_1.png)
@@ -310,7 +297,6 @@
 ![page_101_img_3.png](../images/page_101_img_3.png)
 
 ​Press “ALT+R” to rotate camera to its default orientation.​
-​101​
 ​Beginners guide to Blender​
 
 ![page_102_img_1.png](../images/page_102_img_1.png)
@@ -319,7 +305,6 @@
 
 ![page_102_img_2.png](../images/page_102_img_2.png)
 
-​102​
 ​Beginners guide to Blender​
 ​Rotate it along the X-axes by 90° with “R+X+90”.​
 
@@ -334,7 +319,6 @@
 ![page_103_img_3.png](../images/page_103_img_3.png)
 
 ​And after that click on this lock icon so you can adjust the camera position.​
-​103​
 ​Beginners guide to Blender​
 
 ![page_104_img_1.png](../images/page_104_img_1.png)
@@ -343,11 +327,11 @@
 
 ![page_104_img_2.png](../images/page_104_img_2.png)
 
-​Scroll the mouse wheel up or down to adjust the distance and click on the lock again when​​you are finished with adjusting so you don’t accidentally move your camera position.​
+​Scroll the mouse wheel up or down to adjust the distance and click on the lock again when​
+​you are finished with adjusting so you don’t accidentally move your camera position.​
 
 ![page_104_img_3.png](../images/page_104_img_3.png)
 
-​104​
 ​Beginners guide to Blender​
 ​Select the bottle and rotate it a bit with “R” (in the direction you want).​
 
@@ -358,12 +342,12 @@
 ![page_105_img_2.png](../images/page_105_img_2.png)
 
 ​Press “K” and insert rotation on the first frame.​
-​105​
 ​Beginners guide to Blender​
 
 ![page_106_img_1.png](../images/page_106_img_1.png)
 
-​Move the scrubber from the first frame to the 150 frame (you can move it to other frames as​​well, this is just for an example)​
+​Move the scrubber from the first frame to the 150 frame (you can move it to other frames as​
+​well, this is just for an example)​
 
 ![page_106_img_2.png](../images/page_106_img_2.png)
 
@@ -371,7 +355,6 @@
 
 ![page_106_img_3.png](../images/page_106_img_3.png)
 
-​106​
 ​Beginners guide to Blender​
 ​Change the end frame from 250 to 150.​
 
@@ -385,9 +368,9 @@
 
 ![page_107_img_4.png](../images/page_107_img_4.png)
 
-​107​
 ​Beginners guide to Blender​
-​If you want your animation to look even more natural, select all with A, click RMB and select​​Interpolation mode → Linear.​
+​If you want your animation to look even more natural, select all with A, click RMB and select​
+​Interpolation mode → Linear.​
 
 ![page_108_img_1.png](../images/page_108_img_1.png)
 
@@ -396,14 +379,14 @@
 ![page_108_img_2.png](../images/page_108_img_2.png)
 
 ​And if you want to change background color, just change this color here.​
-​108​
 ​Beginners guide to Blender​
 
 ![page_109_img_1.png](../images/page_109_img_1.png)
 
-​And to change the color of lighting, just change color of the first color picker in the color​​ramp.​
+​And to change the color of lighting, just change color of the first color picker in the color​
+​ramp.​
 
 ![page_109_img_2.png](../images/page_109_img_2.png)
 
-​And to change the gradient of the second sky color just change the second color picker in the​​color ramp. That way you can have multicolored highlights on your glass.​
-​109​
+​And to change the gradient of the second sky color just change the second color picker in the​
+​color ramp. That way you can have multicolored highlights on your glass.​

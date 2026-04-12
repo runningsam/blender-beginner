@@ -1,17 +1,21 @@
 # Chapter 29: Modeling and texturing of an empty and inflated 3D balloon - learning Shape Keys
 
 ​Beginners guide to Blender​
-​Chapter 29 - Modeling and texturing of an​​empty and inflated 3D balloon - learning​​Shape Keys​​(Blender Version 4.4.0)​
+​Chapter 29 - Modeling and texturing of an​
+​empty and inflated 3D balloon - learning​
+​Shape Keys​
+​(Blender Version 4.4.0)​
 ​Modeling​
-​This time you will learn how to model and texture a 3D inflated and deflated balloon by using​​drivers and shape keys.​
+​This time you will learn how to model and texture a 3D inflated and deflated balloon by using​
+​drivers and shape keys.​
 ​(You can check out video tutorial on my YouTube channel:​
-​https://youtu.be/5VSrlrgERF4​)​
+​https://youtu.be/5VSrlrgERF4​
+)​
 ​Select everything with “A” and delete it with “X”.​
 
 ![page_274_img_1.png](../images/page_274_img_1.png)
 
 ​Go to Add → Mesh → UV Sphere​
-​274​
 ​Beginners guide to Blender​
 
 ![page_275_img_1.png](../images/page_275_img_1.png)
@@ -25,7 +29,6 @@
 ![page_275_img_3.png](../images/page_275_img_3.png)
 
 ​Switch to edit mode with “TAB”.​
-​275​
 ​Beginners guide to Blender​
 
 ![page_276_img_1.png](../images/page_276_img_1.png)
@@ -38,14 +41,13 @@
 
 ![page_276_img_3.png](../images/page_276_img_3.png)
 
-​276​
 ​Beginners guide to Blender​
 ​Press “G+Z” and move it for around -0.7​
 
 ![page_277_img_1.png](../images/page_277_img_1.png)
 
-​Scroll the mouse wheel up to increase area of influence. I scrolled it approximately to 1.46.​​When you are satisfied with the look, confirm it with the LMB.​
-​277​
+​Scroll the mouse wheel up to increase area of influence. I scrolled it approximately to 1.46.​
+​When you are satisfied with the look, confirm it with the LMB.​
 ​Beginners guide to Blender​
 
 ![page_278_img_1.png](../images/page_278_img_1.png)
@@ -54,7 +56,6 @@
 
 ![page_278_img_2.png](../images/page_278_img_2.png)
 
-​278​
 ​Beginners guide to Blender​
 
 ![page_279_img_1.png](../images/page_279_img_1.png)
@@ -64,7 +65,6 @@
 ![page_279_img_2.png](../images/page_279_img_2.png)
 
 ​And fill it with “F”.​
-​279​
 ​Beginners guide to Blender​
 
 ![page_280_img_1.png](../images/page_280_img_1.png)
@@ -74,7 +74,6 @@
 ![page_280_img_2.png](../images/page_280_img_2.png)
 
 ​Press “I” to inset a new face and inset it for around 0.088​
-​280​
 ​Beginners guide to Blender​
 
 ![page_281_img_1.png](../images/page_281_img_1.png)
@@ -84,7 +83,6 @@
 ![page_281_img_2.png](../images/page_281_img_2.png)
 
 ​Extrude it with “E+Z” for around 0.27​
-​281​
 ​Beginners guide to Blender​
 
 ![page_282_img_1.png](../images/page_282_img_1.png)
@@ -94,7 +92,6 @@
 ![page_282_img_2.png](../images/page_282_img_2.png)
 
 ​Scale it with “S” for around 0.78​
-​282​
 ​Beginners guide to Blender​
 
 ![page_283_img_1.png](../images/page_283_img_1.png)
@@ -108,7 +105,6 @@
 ![page_283_img_3.png](../images/page_283_img_3.png)
 
 ​Switch to selecting faces with 3 and select this face.​
-​283​
 ​Beginners guide to Blender​
 
 ![page_284_img_1.png](../images/page_284_img_1.png)
@@ -122,7 +118,6 @@
 ![page_284_img_3.png](../images/page_284_img_3.png)
 
 ​Duplicate it with “SHIFT+D”​
-​284​
 ​Beginners guide to Blender​
 
 ![page_285_img_1.png](../images/page_285_img_1.png)
@@ -136,7 +131,6 @@
 ![page_285_img_3.png](../images/page_285_img_3.png)
 
 ​Switch to selecting faces with 3 and select this whole loop with “ALT”.​
-​285​
 ​Beginners guide to Blender​
 
 ![page_286_img_1.png](../images/page_286_img_1.png)
@@ -150,7 +144,6 @@
 ![page_286_img_3.png](../images/page_286_img_3.png)
 
 ​Switch to selecting edges with 2 and select these edges.​
-​286​
 ​Beginners guide to Blender​
 
 ![page_287_img_1.png](../images/page_287_img_1.png)
@@ -164,7 +157,6 @@
 ![page_287_img_3.png](../images/page_287_img_3.png)
 
 ​Scroll the mouse wheel up to add more segment.I added 3 more segments.​
-​287​
 ​Beginners guide to Blender​
 
 ![page_288_img_1.png](../images/page_288_img_1.png)
@@ -178,7 +170,6 @@
 ![page_288_img_3.png](../images/page_288_img_3.png)
 
 ​Now click here on Data​
-​288​
 ​Beginners guide to Blender​
 
 ![page_289_img_1.png](../images/page_289_img_1.png)
@@ -189,9 +180,9 @@
 
 ​So what are Shape keys?​
 ​Shape keys are used to deform object geometry into new shapes for animation.​
-​The most popular case is using shape keys for character facial animation, but you can use it​​for other things, like in this case for making empty balloon inflated and vice versa.​
+​The most popular case is using shape keys for character facial animation, but you can use it​
+​for other things, like in this case for making empty balloon inflated and vice versa.​
 ​First, click on that “+” sign to add a new Shape key.​
-​289​
 ​Beginners guide to Blender​
 
 ![page_290_img_1.png](../images/page_290_img_1.png)
@@ -205,7 +196,6 @@
 ![page_290_img_3.png](../images/page_290_img_3.png)
 
 ​Click once more on the “+” sign to add another Shape key.​
-​290​
 ​Beginners guide to Blender​
 
 ![page_291_img_1.png](../images/page_291_img_1.png)
@@ -214,13 +204,13 @@
 
 ![page_291_img_2.png](../images/page_291_img_2.png)
 
-​From now on whatever you are doing, make sure that the second shape key is selected​​because the first Shape key is the base one and you shouldn’t change it.​
+​From now on whatever you are doing, make sure that the second shape key is selected​
+​because the first Shape key is the base one and you shouldn’t change it.​
 ​Switch back to edit mode with “TAB.”​
 
 ![page_291_img_3.png](../images/page_291_img_3.png)
 
 ​Change view to right orthographic view with numpad 3 or click red X on the screen.​
-​291​
 ​Beginners guide to Blender​
 
 ![page_292_img_1.png](../images/page_292_img_1.png)
@@ -234,7 +224,6 @@
 ![page_292_img_3.png](../images/page_292_img_3.png)
 
 ​And scale it with “S” for around 2.13​
-​292​
 ​Beginners guide to Blender​
 
 ![page_293_img_1.png](../images/page_293_img_1.png)
@@ -248,7 +237,6 @@
 ![page_293_img_3.png](../images/page_293_img_3.png)
 
 ​You can see that the new toolbar appeared in the left bottom corner - Smooth Vertices.​
-​293​
 ​Beginners guide to Blender​
 
 ![page_294_img_1.png](../images/page_294_img_1.png)
@@ -262,7 +250,6 @@
 ![page_294_img_3.png](../images/page_294_img_3.png)
 
 ​And change repeat to around 55​
-​294​
 ​Beginners guide to Blender​
 
 ![page_295_img_1.png](../images/page_295_img_1.png)
@@ -276,7 +263,6 @@
 ![page_295_img_3.png](../images/page_295_img_3.png)
 
 ​Turn on the Proportional editing with “O” or by clicking here​
-​295​
 ​Beginners guide to Blender​
 
 ![page_296_img_1.png](../images/page_296_img_1.png)
@@ -289,9 +275,9 @@
 
 ![page_296_img_3.png](../images/page_296_img_3.png)
 
-​296​
 ​Beginners guide to Blender​
-​and scroll the mouse wheel down so your area of influence (Proportional size) is somewhere​​around 0.39.​
+​and scroll the mouse wheel down so your area of influence (Proportional size) is somewhere​
+​around 0.39.​
 
 ![page_297_img_1.png](../images/page_297_img_1.png)
 
@@ -299,11 +285,11 @@
 
 ![page_297_img_2.png](../images/page_297_img_2.png)
 
-​To improve look of your deflated ballon more, you can select a random vertex and move it​​around with a “G”.​
+​To improve look of your deflated ballon more, you can select a random vertex and move it​
+​around with a “G”.​
 
 ![page_297_img_3.png](../images/page_297_img_3.png)
 
-​297​
 ​Beginners guide to Blender​
 ​For example I selected this vertex and moved it a bit with proportional editing turned on.​
 
@@ -318,12 +304,12 @@
 ![page_298_img_3.png](../images/page_298_img_3.png)
 
 ​and this​
-​298​
 ​Beginners guide to Blender​
 
 ![page_299_img_1.png](../images/page_299_img_1.png)
 
-​If you switch to object mode with “TAB”, your balloon will be full again. That is because value​​of the second shape key is set to 0.​
+​If you switch to object mode with “TAB”, your balloon will be full again. That is because value​
+​of the second shape key is set to 0.​
 
 ![page_299_img_2.png](../images/page_299_img_2.png)
 
@@ -331,8 +317,8 @@
 
 ![page_299_img_3.png](../images/page_299_img_3.png)
 
-​And if you are moving the value towards 0, the balloon become more full again. We will leave​​it at 0 so it stays full for now.​
-​299​
+​And if you are moving the value towards 0, the balloon become more full again. We will leave​
+​it at 0 so it stays full for now.​
 ​Beginners guide to Blender​
 
 ![page_300_img_1.png](../images/page_300_img_1.png)
@@ -346,7 +332,6 @@
 ![page_300_img_3.png](../images/page_300_img_3.png)
 
 ​Rename the material to Balloon_red or anything else you want.​
-​300​
 ​Beginners guide to Blender​
 
 ![page_301_img_1.png](../images/page_301_img_1.png)
@@ -360,7 +345,6 @@
 ![page_301_img_3.png](../images/page_301_img_3.png)
 
 ​just pull it down to the left while holding the left mouse click.​
-​301​
 ​Beginners guide to Blender​
 
 ![page_302_img_1.png](../images/page_302_img_1.png)
@@ -374,7 +358,6 @@
 ![page_302_img_3.png](../images/page_302_img_3.png)
 
 ​Change Alpha to 0.5​
-​302​
 ​Beginners guide to Blender​
 
 ![page_303_img_1.png](../images/page_303_img_1.png)
@@ -388,7 +371,6 @@
 ![page_303_img_3.png](../images/page_303_img_3.png)
 
 ​Duplicate the whole Principled BSDF with “SHIFT+D” and move it down a bit​
-​303​
 ​Beginners guide to Blender​
 
 ![page_304_img_1.png](../images/page_304_img_1.png)
@@ -402,7 +384,6 @@
 ![page_304_img_3.png](../images/page_304_img_3.png)
 
 ​Connect BSDF from second Principled BSDF with Shader from Mix Shader.​
-​304​
 ​Beginners guide to Blender​
 
 ![page_305_img_1.png](../images/page_305_img_1.png)
@@ -416,7 +397,6 @@
 ![page_305_img_3.png](../images/page_305_img_3.png)
 
 ​If you change factor in Mix Shader to 0 your balloon will look like this​
-​305​
 ​Beginners guide to Blender​
 
 ![page_306_img_1.png](../images/page_306_img_1.png)
@@ -426,7 +406,6 @@
 ![page_306_img_2.png](../images/page_306_img_2.png)
 
 ​Go to Data and make sure that the Second Shape key called Balloon_empty is selected​
-​306​
 ​Beginners guide to Blender​
 
 ![page_307_img_1.png](../images/page_307_img_1.png)
@@ -437,10 +416,10 @@
 
 ​And now it is time to use something called Drivers.​
 ​And what are Drivers?​
-​Drivers are a way to control values of properties by means of a function, or a mathematical​​expression.​
+​Drivers are a way to control values of properties by means of a function, or a mathematical​
+​expression.​
 ​Let me show you in a real example.​
 ​Press RMB and choose Copy as a new Driver.​
-​307​
 ​Beginners guide to Blender​
 
 ![page_308_img_1.png](../images/page_308_img_1.png)
@@ -450,7 +429,6 @@
 ![page_308_img_2.png](../images/page_308_img_2.png)
 
 ​Click RMB on Fac and choose Paste Driver.​
-​308​
 ​Beginners guide to Blender​
 
 ![page_309_img_1.png](../images/page_309_img_1.png)
@@ -459,5 +437,5 @@
 
 ![page_309_img_2.png](../images/page_309_img_2.png)
 
-​Now when you move the value of a Second Shape Key, your balloon gets inflated,rougness​​also changes and vice versa.​
-​309​
+​Now when you move the value of a Second Shape Key, your balloon gets inflated,rougness​
+​also changes and vice versa.​

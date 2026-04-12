@@ -8,7 +8,8 @@
 ​Today we will learn how to model a cute cartoony 3D grain sack in Blender.​
 ​I hope you’ll enjoy this tutorial.​
 ​You can find more tutorials on my YouTube and on my Patreon (free and paid members)​
-​If you want a video tutorial check my YouTube channel:​​https://youtu.be/HEkOJ7wn_Bo​
+​If you want a video tutorial check my YouTube channel:​
+​https://youtu.be/HEkOJ7wn_Bo​
 ​Now, let’s begin with modeling!​
 ​Select everything with “A” and delete with “X”.​
 
@@ -19,7 +20,6 @@
 ![page_244_img_2.png](../images/page_244_img_2.png)
 
 ​Press “S” + 2 to scale it for 2​
-​244​
 ​Beginners guide to Blender​
 
 ![page_245_img_1.png](../images/page_245_img_1.png)
@@ -33,7 +33,6 @@
 ![page_245_img_3.png](../images/page_245_img_3.png)
 
 ​Press “S” + 2 to scale it for 2​
-​245​
 ​Beginners guide to Blender​
 
 ![page_246_img_1.png](../images/page_246_img_1.png)
@@ -47,7 +46,6 @@
 ![page_246_img_3.png](../images/page_246_img_3.png)
 
 ​Select everything with A and apply scale with “CTRL+A”​
-​246​
 ​Beginners guide to Blender​
 
 ![page_247_img_1.png](../images/page_247_img_1.png)
@@ -61,7 +59,6 @@
 ![page_247_img_3.png](../images/page_247_img_3.png)
 
 ​Select the cube and go to modifiers.​
-​247​
 ​Beginners guide to Blender​
 ​Go to Add Modifier → Generate → Subdivision Subsurface​
 
@@ -76,7 +73,6 @@
 ![page_248_img_3.png](../images/page_248_img_3.png)
 
 ​Switch to edit mode with “TAB”​
-​248​
 ​Beginners guide to Blender​
 
 ![page_249_img_1.png](../images/page_249_img_1.png)
@@ -90,7 +86,6 @@
 ![page_249_img_3.png](../images/page_249_img_3.png)
 
 ​And scale it once again with “S+Y” for around 0.3444​
-​249​
 ​Beginners guide to Blender​
 
 ![page_250_img_1.png](../images/page_250_img_1.png)
@@ -105,7 +100,6 @@
 ![page_250_img_3.png](../images/page_250_img_3.png)
 
 ​Add a loop cut with “CTRL+R” here​
-​250​
 ​Beginners guide to Blender​
 
 ![page_251_img_1.png](../images/page_251_img_1.png)
@@ -119,8 +113,8 @@
 
 ![page_251_img_3.png](../images/page_251_img_3.png)
 
-​Press “CTRL+B” to bevel it. Add one more segment by scrolling the mouse wheel up and​​bevel it for around 0.137​
-​251​
+​Press “CTRL+B” to bevel it. Add one more segment by scrolling the mouse wheel up and​
+​bevel it for around 0.137​
 ​Beginners guide to Blender​
 
 ![page_252_img_1.png](../images/page_252_img_1.png)
@@ -134,7 +128,6 @@
 ![page_252_img_3.png](../images/page_252_img_3.png)
 
 ​Turn on X-ray mode with “ALT+Z” and switch to selecting vertices with 1.​
-​252​
 ​Beginners guide to Blender​
 ​Select this part​
 
@@ -149,7 +142,6 @@
 ![page_253_img_3.png](../images/page_253_img_3.png)
 
 ​And scroll a mouse wheel one time to add one more loop.​
-​253​
 ​Beginners guide to Blender​
 ​Confirm the number with LMB and position with RMB.​
 
@@ -164,7 +156,6 @@
 ![page_254_img_3.png](../images/page_254_img_3.png)
 
 ​Scroll down to find “Pressure” and turn it on so we can inflate our model.​
-​254​
 ​Beginners guide to Blender​
 
 ![page_255_img_1.png](../images/page_255_img_1.png)
@@ -173,12 +164,12 @@
 
 ![page_255_img_2.png](../images/page_255_img_2.png)
 
-​Go to Collisions and turn on Self Collision so that parts of our model don’t clip through faces​​of the same mesh.​
+​Go to Collisions and turn on Self Collision so that parts of our model don’t clip through faces​
+​of the same mesh.​
 
 ![page_255_img_3.png](../images/page_255_img_3.png)
 
 ​Press Spacebar to start animation​
-​255​
 ​Beginners guide to Blender​
 
 ![page_256_img_1.png](../images/page_256_img_1.png)
@@ -189,7 +180,6 @@
 ![page_256_img_2.png](../images/page_256_img_2.png)
 
 ​Go to Add Modifier → Generate → Subdivision Subsurface​
-​256​
 ​Beginners guide to Blender​
 
 ![page_257_img_1.png](../images/page_257_img_1.png)
@@ -203,8 +193,8 @@
 ![page_257_img_3.png](../images/page_257_img_3.png)
 
 ​Switch to edit mode with “TAB”.​
-​Switch to the front orthographic view by clicking on that green -Y on Gizmo or pressing​​“CTRL+ Numpad 1”.​
-​257​
+​Switch to the front orthographic view by clicking on that green -Y on Gizmo or pressing​
+​“CTRL+ Numpad 1”.​
 ​Beginners guide to Blender​
 
 ![page_258_img_1.png](../images/page_258_img_1.png)
@@ -214,7 +204,6 @@
 ![page_258_img_2.png](../images/page_258_img_2.png)
 
 ​Press “X” and choose delete vertices​
-​258​
 ​Beginners guide to Blender​
 
 ![page_259_img_1.png](../images/page_259_img_1.png)
@@ -228,7 +217,6 @@
 ![page_259_img_3.png](../images/page_259_img_3.png)
 
 ​Move Solidify before Subdivision Subsurface​
-​259​
 ​Beginners guide to Blender​
 
 ![page_260_img_1.png](../images/page_260_img_1.png)
@@ -237,13 +225,14 @@
 
 ![page_260_img_2.png](../images/page_260_img_2.png)
 
-​Switch to edit mode with “TAB” and switch from selecting vertices to selecting edges with 2.​​Select this whole edge loop with “ALT” +LMB​
+​Switch to edit mode with “TAB” and switch from selecting vertices to selecting edges with 2.​
+​Select this whole edge loop with “ALT” +LMB​
 
 ![page_260_img_3.png](../images/page_260_img_3.png)
 
-​260​
 ​Beginners guide to Blender​
-​Switch to the front orthographic view by clicking on that green -Y on Gizmo or pressing​​“CTRL+ Numpad 1”.​
+​Switch to the front orthographic view by clicking on that green -Y on Gizmo or pressing​
+​“CTRL+ Numpad 1”.​
 
 ![page_261_img_1.png](../images/page_261_img_1.png)
 
@@ -252,7 +241,6 @@
 ![page_261_img_2.png](../images/page_261_img_2.png)
 
 ​Scale it with “S” for around 1.0713​
-​261​
 ​Beginners guide to Blender​
 
 ![page_262_img_1.png](../images/page_262_img_1.png)
@@ -266,7 +254,6 @@
 ![page_262_img_3.png](../images/page_262_img_3.png)
 
 ​And scale it with “S+X” for around 0.8891​
-​262​
 ​Beginners guide to Blender​
 
 ![page_263_img_1.png](../images/page_263_img_1.png)
@@ -276,12 +263,12 @@
 ![page_263_img_2.png](../images/page_263_img_2.png)
 
 ​Turn on Proportional editing with “O”​
-​Scale it with “S” and change proportional size by scrolling the mouse wheel until you are​​satisfied with it. Confirm it with LMB.​
+​Scale it with “S” and change proportional size by scrolling the mouse wheel until you are​
+​satisfied with it. Confirm it with LMB.​
 
 ![page_263_img_3.png](../images/page_263_img_3.png)
 
 ​Turn off proportional editing with “O”.​
-​263​
 ​Beginners guide to Blender​
 ​Click here on Solidify to turn it off in edit mode so you can see what are you doing.​
 
@@ -296,7 +283,6 @@
 ![page_264_img_3.png](../images/page_264_img_3.png)
 
 ​Press “I” for inset and inset a new face for around 0.71​
-​264​
 ​Beginners guide to Blender​
 
 ![page_265_img_1.png](../images/page_265_img_1.png)
@@ -310,7 +296,6 @@
 ![page_265_img_3.png](../images/page_265_img_3.png)
 
 ​Move it with “G+Z” for around 0.65​
-​265​
 ​Beginners guide to Blender​
 
 ![page_266_img_1.png](../images/page_266_img_1.png)
@@ -324,7 +309,6 @@
 ![page_266_img_3.png](../images/page_266_img_3.png)
 
 ​Switch to selecting vertices with 1 and move this vertex with “G+Z” for around 0.15​
-​266​
 ​Beginners guide to Blender​
 
 ![page_267_img_1.png](../images/page_267_img_1.png)
@@ -338,7 +322,6 @@
 ![page_267_img_3.png](../images/page_267_img_3.png)
 
 ​Press “CTRL+A” and choose apply Location.​
-​267​
 ​Beginners guide to Blender​
 
 ![page_268_img_1.png](../images/page_268_img_1.png)
@@ -351,8 +334,8 @@
 
 ![page_268_img_3.png](../images/page_268_img_3.png)
 
-​Hover over the Scale Z = 0.050 (in my case) and just press “CTRL+C” to copy it and paste it​​to X, and Y with “CTRL+V”​
-​268​
+​Hover over the Scale Z = 0.050 (in my case) and just press “CTRL+C” to copy it and paste it​
+​to X, and Y with “CTRL+V”​
 ​Beginners guide to Blender​
 
 ![page_269_img_1.png](../images/page_269_img_1.png)
@@ -366,7 +349,6 @@
 ![page_269_img_3.png](../images/page_269_img_3.png)
 
 ​And then apply scale with “CTRL+A”​
-​269​
 ​Beginners guide to Blender​
 
 ![page_270_img_1.png](../images/page_270_img_1.png)
@@ -382,7 +364,6 @@
 ![page_270_img_4.png](../images/page_270_img_4.png)
 
 ​Change the Base color to any color you want.​
-​270​
 ​Beginners guide to Blender​
 ​I choose this one​
 
@@ -398,7 +379,6 @@
 ![page_271_img_3.png](../images/page_271_img_3.png)
 
 ​and press “L” for linked​
-​271​
 ​Beginners guide to Blender​
 
 ![page_272_img_1.png](../images/page_272_img_1.png)
@@ -412,17 +392,17 @@
 ![page_272_img_3.png](../images/page_272_img_3.png)
 
 ​In the end rename your objects and materials.​
-​272​
 ​Beginners guide to Blender​
 
 ![page_273_img_1.png](../images/page_273_img_1.png)
 
 ​Now you know how to model and texture a cute cartoony grain sack!​
-​Let me know in the comments would you like more tutorials for cute cartoony stuff and feel​​free to give me an idea what should I model next.​
+​Let me know in the comments would you like more tutorials for cute cartoony stuff and feel​
+​free to give me an idea what should I model next.​
 ​That’s all for today!​
 ​If you had fun learning with me, don’t forget to subscribe to my channel.​
-​I recently started a Patreon with more exclusive content like tutorials, 3D models, .blend files,​​behind-the-scenes videos, etc. I am also often sharing free 3D models, making quizzes, etc.​
+​I recently started a Patreon with more exclusive content like tutorials, 3D models, .blend files,​
+​behind-the-scenes videos, etc. I am also often sharing free 3D models, making quizzes, etc.​
 ​There is something for both free and paid members, so don’t forget to check it out.​
 ​And if you have any questions, write them down in the comments :D​
 ​Happy Blending everyone! Byeee, see you next time.​
-​273​
