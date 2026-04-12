@@ -1,6 +1,6 @@
 # Summary
 
-- [Introduction (含封面)](README.md)
+- [Introduction](README.md)
 
 - [Chapter 1: Why should you choose Blender if you are learning 3D modeling?](chapters/chapter_01.md)
 - [Chapter 2: Installing Blender on your computer](chapters/chapter_02.md)
