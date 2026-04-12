@@ -1,15 +1,21 @@
 # Chapter 14: Your first 3D model
 
 I was thinking about the best first model for you to understand modeling in Blender, and decided to start with a chess piece pawn.
+
 It is fun and satisfying when you see in the end that you can model it.
+
 So let’s start!
+
 First, we will find an image reference.
+
 I found it on Pixabay.com. (https://pixabay.com/vectors/chess-game-pawn-piece-recreation-26779/).
+
 You can download this one or any other image that you want, just be sure that it is the front side. I will put the picture for download in the description.
 
 ![page_92_img_1.png](../images/page_92_img_1.png)
 
 Time to learn how to model with a picture reference. We are currently working in object mode.
+
 First, we will delete everything from the scene with an “X.”
 
 ![page_92_img_2.png](../images/page_92_img_2.png)
@@ -19,6 +25,7 @@ After that, we will click on ”-Y” on the gizmo so that we can position every
 ![page_93_img_1.png](../images/page_93_img_1.png)
 
 Then we will go to *`Add → Image → Reference`*.
+
 After that, a new window will open, and you will find the image that you just downloaded.
 
 ![page_93_img_2.png](../images/page_93_img_2.png)
@@ -36,19 +43,25 @@ On the right side, you will see a lot of tools, but the only tool that is import
 ![page_94_img_3.png](../images/page_94_img_3.png)
 
 Here you can change the size, offset, depth, side, and opacity of the image.
+
 We want to change Depth to Back.
 
 ![page_95_img_1.png](../images/page_95_img_1.png)
 
 The next step is to place the pawn in the center and align the bottom of the pawn with the X-axis for easier modeling.
+
 Because our reference image is already in the middle, I will only move it up with “`G+Z`” for around 2.29 to align the bottom with the X-axis.
 
 ![page_95_img_2.png](../images/page_95_img_2.png)
 
 Before we add an object, let’s think about which object would be the best for modeling a pawn based on the pawn shape.
+
 We have: plane, cube, circle, UV sphere, ICO sphere, Cylinder, Cone, and Torus.
+
 The most similar are the circle and the cylinder.
+
 You can choose either one. I will start with the circle
+
 Go to *`Add → Mesh → Circle`*
 
 ![page_96_img_1.png](../images/page_96_img_1.png)
@@ -70,6 +83,7 @@ Scroll the mouse wheel up to zoom in on the right side of the pawn.
 ![page_97_img_2.png](../images/page_97_img_2.png)
 
 Now we will start to extrude and scale the circle, following the contour of our pawn.
+
 Scale it with “S” for around 1.63
 
 ![page_97_img_3.png](../images/page_97_img_3.png)
@@ -111,6 +125,7 @@ Scale it with “S” to the inside for around 0.95
 ![page_100_img_3.png](../images/page_100_img_3.png)
 
 When you reach the first crease, extrude the circle just a tiny bit and scale it so that it fits to inside of the crease.
+
 Extrude it with “`E+Z`” for around 0.005
 
 ![page_101_img_1.png](../images/page_101_img_1.png)
@@ -156,6 +171,7 @@ Scale it with “S” to the inside for around 0.96
 ![page_104_img_2.png](../images/page_104_img_2.png)
 
 Here comes the next part of the pawn. Like the last time, we will extrude it with “`E+Z`” just a little bit so we can scale it after that.
+
 Extrude it with “`E+Z`” for around 0.005
 
 ![page_105_img_1.png](../images/page_105_img_1.png)
@@ -205,6 +221,7 @@ Scale it with “S” to the inside for around 0.96
 ![page_108_img_2.png](../images/page_108_img_2.png)
 
 Again, the same thing. Just a little bit of extrude so we can scale the next part.
+
 Extrude it with “`E+Z`” for around 0.005
 
 ![page_108_img_3.png](../images/page_108_img_3.png)
@@ -214,6 +231,7 @@ Scale it with “S” to the inside for around 0.82
 ![page_109_img_1.png](../images/page_109_img_1.png)
 
 This time, we can just extrude this part.
+
 Extrude it with “`E+Z`” for around 1.11
 
 ![page_109_img_2.png](../images/page_109_img_2.png)
@@ -223,6 +241,7 @@ Scale it with “S” to the inside for around 0.76
 ![page_109_img_3.png](../images/page_109_img_3.png)
 
 After that, the next part is coming, so just extrude it a bit.
+
 Extrude it with “`E+Z`” for around 0.005
 
 ![page_110_img_1.png](../images/page_110_img_1.png)
@@ -268,6 +287,7 @@ Scale it with “S” to the inside for around 0.94
 ![page_112_img_3.png](../images/page_112_img_3.png)
 
 Same thing with the crease again.
+
 Extrude it with “`E+Z`” for around 0.005
 
 ![page_112_img_4.png](../images/page_112_img_4.png)
@@ -435,4 +455,5 @@ RMB and choose Shade Auto Smooth.
 ![page_125_img_1.png](../images/page_125_img_1.png)
 
 That is all for today, next time we will learn how to make a plate.
+
 If you had fun learning with me, don’t forget to subscribe to my channel.

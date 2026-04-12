@@ -1,8 +1,11 @@
 # Chapter 23: Modeling and texturing of a pumpkin
 
 Since Halloween is approaching, I decided to teach you how to model and texture a pumpkin in Blender.
+
 Let's start with the modeling. (You can check out the video tutorial on my YouTube channel: https://youtu.be/s9HeDfgO6nU?si=C4KRc9KMnQ9IS5P)
+
 This time, you will delete the cube because this basic shape isn't ideal for modeling a pumpkin.
+
 Delete the cube by pressing 'X'.
 
 ![page_273_img_1.png](../images/page_273_img_1.png)
@@ -20,6 +23,7 @@ I changed it from 32 to 21.
 ![page_274_img_2.png](../images/page_274_img_2.png)
 
 Switch to edit mode with “TAB”.
+
 Select this top vertex
 
 ![page_275_img_1.png](../images/page_275_img_1.png)
@@ -93,6 +97,7 @@ Switch to object mode, select that separated part and rename it to “Stem.”
 ![page_280_img_3.png](../images/page_280_img_3.png)
 
 Switch back to Edit Mode. Select the stem, then go to *`Select → Checker`* Deselect to choose every second vertex.
+
 Since you have an odd number of vertices, they won’t be evenly selected, but this won’t affect the stem. In fact, the slight imperfections will make it look more realistic.
 
 ![page_281_img_1.png](../images/page_281_img_1.png)
@@ -138,6 +143,7 @@ And extrude inside with “E.”
 ![page_284_img_3.png](../images/page_284_img_3.png)
 
 Switch to object mode with “TAB” and select the Pumpkin.
+
 Go to modifier properties. Add *`modifier → Generate → Subdivision`* subsurface.
 
 ![page_285_img_1.png](../images/page_285_img_1.png)
@@ -159,24 +165,31 @@ Change Levels Viewport to 2.
 ![page_286_img_2.png](../images/page_286_img_2.png)
 
 As you can see, something seems off with the stem. Do you remember what I told you about face orientation? Let's go over it again, just in case.
+
 Click on overlays and turn on Face orientation.
 
 ![page_286_img_3.png](../images/page_286_img_3.png)
 
 Face orientation shows the direction in which the normals are facing.
+
 The blue color indicates that the face is facing outward, while the red color indicates it's facing inward.
+
 Ideally, most of the mesh should appear blue rather than red, so you need to flip the red faces to ensure all surfaces are facing the correct direction.
+
 Switch to Edit Mode by pressing 'TAB' and select all by pressing 'A'.
+
 Go to Mesh - Normals - Recalculate Outside.
 
 ![page_287_img_1.png](../images/page_287_img_1.png)
 
 Switch to object mode with “TAB.”
+
 Click on overlays and turn off Face orientation.
 
 ![page_287_img_2.png](../images/page_287_img_2.png)
 
 Switch to edit mode with “TAB.”
+
 Add a loop with “CTRL+R” and move it up.
 
 ![page_288_img_1.png](../images/page_288_img_1.png)
@@ -194,6 +207,7 @@ Choose the bottom loop while holding “ALT”+ LMB and scale it with “S” to
 ![page_289_img_1.png](../images/page_289_img_1.png)
 
 Switch to object mode with “TAB.”
+
 Move the Stem down along Z-axis with “`G+Z`.”
 
 ![page_289_img_2.png](../images/page_289_img_2.png)
@@ -223,6 +237,7 @@ Click Blue Z on the Gizmo or 7 on your keyboard for the view from the top.
 ![page_291_img_2.png](../images/page_291_img_2.png)
 
 Select the point light that you already had on the scene and duplicate it with “SHIFT+D.” (If you deleted it, just go to *`Add → Light → Point`*.)
+
 Move it with “G.”
 
 ![page_291_img_3.png](../images/page_291_img_3.png)
@@ -232,6 +247,7 @@ Choose both lights and move them with “G” a bit if needed.
 ![page_292_img_1.png](../images/page_292_img_1.png)
 
 Choose a second point light and duplicate it with “SHIFT+D.”
+
 Move it with “G” as shown.
 
 ![page_292_img_2.png](../images/page_292_img_2.png)
@@ -253,6 +269,7 @@ Click new and rename the material to Stem.
 ![page_293_img_3.png](../images/page_293_img_3.png)
 
 Select the Pumpkin and go to the material properties.
+
 Click new and rename the material to Pumpkin.
 
 ![page_293_img_4.png](../images/page_293_img_4.png)
@@ -266,6 +283,7 @@ just pull it down to the left while holding the left mouse click.
 ![page_294_img_2.png](../images/page_294_img_2.png)
 
 Open the shader editor in the window you just created.
+
 Click “N” to hide that sidebar on the right because you don’t need it.
 
 ![page_294_img_3.png](../images/page_294_img_3.png)
@@ -327,6 +345,9 @@ Change the second color in Color ramp to llight green. And adjust any other colo
 ![page_298_img_3.png](../images/page_298_img_3.png)
 
 If you like how your pumpkin looks, click Render and render image.
+
 Congratulations! You’ve learned how to model and texture a Pumpkin in Blender!
+
 Happy Blending!
+
 Byee, see you next time!

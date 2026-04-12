@@ -1,14 +1,19 @@
 # Chapter 21b: Modeling a hay bale
 
 I decided to teach you how to model a hay bale because it is a good way to introduce you to something new in Blender called particles.
+
 So let’s begin with the modeling. (You can check out a video tutorial on my YouTube channel: https://youtu.be/fw8SMNxWnm8?si=GCreoaZfE1eH-ZhR)
+
 Just as you did while modeling a book, you won’t delete the cube, but you will use it from the start because the most similar shape to the hay bale is a cube.
+
 Until now, you haven’t done any modeling by dimensions, so this time I will teach you how to do that. Those are the dimensions that I decided are the best for my 3D model of a hay bale, but feel free to change the dimensions as you like.
+
 Open the right sidebar with “N”, and choose “Item”.
 
 ![page_247_img_1.png](../images/page_247_img_1.png)
 
 Current dimensions of this cube are 2x2x2.
+
 Change cube dimensions to x = 1 m, y = 1.5 m, z = 0.6 m (or anything else you think is best).
 
 ![page_247_img_2.png](../images/page_247_img_2.png)
@@ -34,7 +39,9 @@ Click the right mouse button and choose shade smooth.
 ![page_249_img_2.png](../images/page_249_img_2.png)
 
 Switch to edit mode with “TAB.”
+
 Click “CTRL+R” to add a loop.
+
 Scroll the mouse wheel up to add one more loop. Click LMB to confirm the number and then ESC or RMB to center them.
 
 ![page_249_img_3.png](../images/page_249_img_3.png)
@@ -68,6 +75,7 @@ This time, when scaling, scale along the x-axis with “`S+X`.”
 ![page_252_img_1.png](../images/page_252_img_1.png)
 
 Switch from selecting edges to selecting faces with “3.”
+
 Choose the whole loop with “ALT+ LMB.”
 
 ![page_252_img_2.png](../images/page_252_img_2.png)
@@ -91,11 +99,13 @@ Click “P” selection to make a new separated object out of it.
 ![page_254_img_1.png](../images/page_254_img_1.png)
 
 Switch to object mode with “TAB.”
+
 Select the new object and scale it up a bit with “S”.
 
 ![page_254_img_2.png](../images/page_254_img_2.png)
 
 Change the render engine to Cycles and the device to GPU if your graphics card is better than the processor.
+
 Also, turn on denoise in the viewport.
 
 ![page_254_img_3.png](../images/page_254_img_3.png)
@@ -111,9 +121,13 @@ Select the Bale, go to the modifiers - bevel. Click on this dropdown menu and se
 ## PARTICLES
 
 Particles are lots of items emitted from mesh objects, typically in the thousands. Each particle can be a point of light or a mesh, and can be joined or dynamic. They may react to many different influences and forces, and have the notion of a lifespan. Dynamic particles can represent fire, smoke, mist, and other things, such as dust or magic spells.
+
 Hair-type particles are a subset of regular particles. Hair systems form curves that can represent hair, fur, grass, and bristles.
+
 (source: https://docs.blender.org/manual/en/latest/physics/particles/introduction.html)
+
 I copied this definition from the official Blender manual because it is the best explanation. Now I will show you a real example of what particles are.
+
 Go to Particle Properties
 
 ![page_256_img_1.png](../images/page_256_img_1.png)
@@ -127,7 +141,9 @@ Here you will see two options: Emitter and Hair.
 ![page_256_img_3.png](../images/page_256_img_3.png)
 
 If you choose an emitter, particles are emitted from the object.
+
 If you choose the hair, particles are rendered as strands.
+
 Because I want the second option, I will choose Hair.
 
 ![page_257_img_1.png](../images/page_257_img_1.png)
@@ -153,15 +169,21 @@ And uncheck - close tip because you want your radius tip to be zero.
 ![page_259_img_1.png](../images/page_259_img_1.png)
 
 Go to Children.
+
 Children are Hair or Emitter particles originating from individual particles. They make it possible to work primarily with a relatively low amount of Parent particles, for whom the physics are calculated. The children are then aligned to their parents. The number and visualization of the children can be changed without a recalculation of the physics.
+
 If you activate children, the parents are no longer rendered. (source: https://docs.blender.org/manual/en/latest/physics/particles/emitter/children.html)
 
 ![page_259_img_2.png](../images/page_259_img_2.png)
 
 There are three types of children in Blender: None, Simple and Interpolated.
+
 If you select none, there are no children generated.
+
 If you select, simple, children are emitted from the parent position.
+
 If you select interpolation, children are emitted between the Parent particles on the faces of a mesh.
+
 To show you a real example, this is Hay Bale when you choose none children
 
 ![page_260_img_1.png](../images/page_260_img_1.png)
@@ -175,6 +197,7 @@ This is Hay Bale when you choose Interpolated children
 ![page_260_img_3.png](../images/page_260_img_3.png)
 
 In this case, the best is interpolated, so switch from none to interpolated.
+
 Go to Roughness
 
 ![page_261_img_1.png](../images/page_261_img_1.png)
