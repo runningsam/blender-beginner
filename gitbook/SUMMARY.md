@@ -22,6 +22,7 @@
 - [Chapter 18: Your first animation](chapters/chapter_18.md)
 - [Chapter 19: Rendering your first animation](chapters/chapter_19.md)
 - [Chapter 20: Modeling a book](chapters/chapter_20.md)
-- [Chapter 21: Texturing a book](chapters/chapter_21.md)
+- [Chapter 21a: Texturing a book](chapters/chapter_21.md)
+- [Chapter 21b: Modeling a hay bale](chapters/chapter_21_b.md)
 - [Chapter 22: Texturing a hay bale](chapters/chapter_22.md)
 - [Chapter 23: Modeling and texturing of a pumpkin](chapters/chapter_23.md)
