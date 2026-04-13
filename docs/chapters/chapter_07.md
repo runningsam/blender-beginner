@@ -16,10 +16,10 @@ Just go to Add —> Mesh —> and choose any object that you want to add
 
 (plane, cube, circle, UV sphere, ICO Sphere, Cylinder, Cone, Torus…).
 
-![page_44_img_1.png](/images/page_44_img_1.png)
+![page_44_img_1.png](images/page_44_img_1.png)
 
 The second way is by using a shortcut (try to remember this method for easier and quicker modeling).
 
 Just click “SHIFT+A” and you will get this menu. Choose Mesh and add the object that you want.
 
-![page_45_img_1.png](/images/page_45_img_1.png)
+![page_45_img_1.png](images/page_45_img_1.png)

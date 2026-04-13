@@ -8,15 +8,15 @@
 
 你可以点击箭头指向的位置激活"环切"。
 
-![page_88_img_1.png](/images/page_88_img_1.png)
+![page_88_img_1.png](images/page_88_img_1.png)
 
 当你激活"环切"工具并在物体（这里是立方体）附近移动鼠标时，环会出现。
 
-![page_88_img_2.png](/images/page_88_img_2.png)
+![page_88_img_2.png](images/page_88_img_2.png)
 
 你可以用 LMB 确认环切。
 
-![page_89_img_1.png](/images/page_89_img_1.png)
+![page_89_img_1.png](images/page_89_img_1.png)
 
 我马上给你展示环切的快捷键，因为建模时用它更方便。
 
@@ -26,11 +26,11 @@
 
 当你满意位置后，用 LMB 确认。
 
-![page_89_img_2.png](/images/page_89_img_2.png)
+![page_89_img_2.png](images/page_89_img_2.png)
 
 在用 LMB 确认之前，如果你上下滚动鼠标滚轮，环切数量会增加或减少。
 
-![page_90_img_1.png](/images/page_90_img_1.png)
+![page_90_img_1.png](images/page_90_img_1.png)
 
 再点击一次 LMB 后，你可以用鼠标移动它们，如果你第三次点击 LMB，就会确认环的位置。
 
@@ -42,15 +42,15 @@
 
 场景里有个像这样的立方体。
 
-![page_90_img_2.png](/images/page_90_img_2.png)
+![page_90_img_2.png](images/page_90_img_2.png)
 
 如果你添加一个这样的环切
 
-![page_90_img_3.png](/images/page_90_img_3.png)
+![page_90_img_3.png](images/page_90_img_3.png)
 
 然后用"`G+Z`"把顶部边往上拉，你会得到一个……
 
-![page_91_img_1.png](/images/page_91_img_1.png)
+![page_91_img_1.png](images/page_91_img_1.png)
 
 ## 房子！
 

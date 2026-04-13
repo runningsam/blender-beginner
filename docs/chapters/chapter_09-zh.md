@@ -4,7 +4,7 @@
 
 你可以从这个菜单点击编辑模式来切换。
 
-![page_51_img_1.png](/images/page_51_img_1.png)
+![page_51_img_1.png](images/page_51_img_1.png)
 
 或者直接按"TAB"在物体模式和编辑模式之间切换。
 
@@ -14,7 +14,7 @@
 
 顶点选择
 
-![page_52_img_1.png](/images/page_52_img_1.png)
+![page_52_img_1.png](images/page_52_img_1.png)
 
 先来了解一下立方体由什么组成。
 
@@ -22,31 +22,31 @@
 
 那什么是顶点呢？
 
-![page_52_img_2.png](/images/page_52_img_2.png)
+![page_52_img_2.png](images/page_52_img_2.png)
 
 顶点就是你能看到的所有那些小点。
 
 所以我们的立方体有 8个顶点。
 
-![page_53_img_1.png](/images/page_53_img_1.png)
+![page_53_img_1.png](images/page_53_img_1.png)
 
 如果你想切换到顶点选择，可以选中这部分，或者在键盘上按 1（不是数字键盘）。
 
-![page_53_img_2.png](/images/page_53_img_2.png)
+![page_53_img_2.png](images/page_53_img_2.png)
 
 如果你想切换到边选择，可以选中这部分，或者在键盘上按 2（不是数字键盘）。
 
-![page_54_img_1.png](/images/page_54_img_1.png)
+![page_54_img_1.png](images/page_54_img_1.png)
 
 但什么是边？
 
 边连接两个顶点。这意味着这个立方体有 12条边。
 
-![page_54_img_2.png](/images/page_54_img_2.png)
+![page_54_img_2.png](images/page_54_img_2.png)
 
 这就是面。
 
-![page_55_img_1.png](/images/page_55_img_1.png)
+![page_55_img_1.png](images/page_55_img_1.png)
 
 如果你想切换到面选择，可以选中这部分，或者在键盘上按 3（不是数字键盘）。
 
@@ -54,12 +54,12 @@
 
 你可能注意到我展示立方体时能看到它内部（透明的）。这叫 X射线模式。你可以点击箭头指向的位置激活它，或者直接按"ALT+Z"。关闭的方法也一样，点击屏幕或键盘都可以。
 
-![page_55_img_2.png](/images/page_55_img_2.png)
+![page_55_img_2.png](images/page_55_img_2.png)
 
 你已经熟悉移动、旋转和变换按钮了，我就不再解释。不同的是，在编辑模式下，你可以移动、旋转或缩放立方体的部分，而不是整个立方体。
 
 所以你可以移动顶点、缩放面或旋转边。
 
-![page_56_img_1.png](/images/page_56_img_1.png)
+![page_56_img_1.png](images/page_56_img_1.png)
 
 下一章你会学到新工具，但在那之前，试着在编辑模式下玩玩这些你已经熟悉的工具，感受一下。

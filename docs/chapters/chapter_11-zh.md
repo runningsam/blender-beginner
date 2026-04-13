@@ -6,7 +6,7 @@
 
 你可以点击箭头指向的位置激活"内插"。
 
-![page_79_img_1.png](/images/page_79_img_1.png)
+![page_79_img_1.png](images/page_79_img_1.png)
 
 从解释中你可能已经意识到，内插工具只能对面进行操作。
 
@@ -16,11 +16,11 @@
 
 如你所见，出现了黄色圆圈。
 
-![page_79_img_2.png](/images/page_79_img_2.png)
+![page_79_img_2.png](images/page_79_img_2.png)
 
 如果你按住 LMB 并在黄色圆圈内移动，你可以这样内插新面。当你满意内插的大小后，松开 LMB。
 
-![page_80_img_1.png](/images/page_80_img_1.png)
+![page_80_img_1.png](images/page_80_img_1.png)
 
 说实话，用快捷键内插面更容易，记住快捷键是"I"。
 
@@ -28,14 +28,14 @@
 
 你可以同时内插多个面。
 
-![page_80_img_2.png](/images/page_80_img_2.png)
+![page_80_img_2.png](images/page_80_img_2.png)
 
-![page_80_img_3.png](/images/page_80_img_3.png)
+![page_80_img_3.png](images/page_80_img_3.png)
 
 如果你想同时内插多个相连的面，如果只按一次"I"，你会得到这个。
 
-![page_81_img_1.png](/images/page_81_img_1.png)
+![page_81_img_1.png](images/page_81_img_1.png)
 
 但如果你想分别内插两个面，从一开始就按两次"I"，你会得到这个。
 
-![page_81_img_2.png](/images/page_81_img_2.png)
+![page_81_img_2.png](images/page_81_img_2.png)

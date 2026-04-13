@@ -6,7 +6,7 @@
 
 如何用快捷键旋转立方体（角度旋转）？这是旋转的角度。
 
-![page_26_img_1.png](/images/page_26_img_1.png)
+![page_26_img_1.png](images/page_26_img_1.png)
 
 在左下角你可以看到旋转角度的数值。
 
@@ -18,15 +18,15 @@
 
 `R+X` —— 沿 X 轴旋转。
 
-![page_27_img_1.png](/images/page_27_img_1.png)
+![page_27_img_1.png](images/page_27_img_1.png)
 
 `R+Y` —— 沿 Y 轴旋转。
 
-![page_27_img_2.png](/images/page_27_img_2.png)
+![page_27_img_2.png](images/page_27_img_2.png)
 
 `R+Z` —— 沿 Z 轴旋转。
 
-![page_28_img_1.png](/images/page_28_img_1.png)
+![page_28_img_1.png](images/page_28_img_1.png)
 
 3. 最后用 LMB 确认旋转。
 
@@ -34,21 +34,21 @@
 
 1. 点击工具栏（箭头指向的位置）——点击旋转按钮启用它。
 
-![page_28_img_2.png](/images/page_28_img_2.png)
+![page_28_img_2.png](images/page_28_img_2.png)
 
 2. 会出现三个彩色圆环——每个颜色代表一个轴。
 
 3. 选择你想要的轴，然后按住 LMB，沿所选轴的方向旋转。
 
-![page_29_img_1.png](/images/page_29_img_1.png)
+![page_29_img_1.png](images/page_29_img_1.png)
 
 不用快捷键沿 X 轴旋转立方体。作者截图。
 
-![page_29_img_2.png](/images/page_29_img_2.png)
+![page_29_img_2.png](images/page_29_img_2.png)
 
 不用快捷键沿 Y 轴旋转立方体。作者截图。
 
-![page_30_img_1.png](/images/page_30_img_1.png)
+![page_30_img_1.png](images/page_30_img_1.png)
 
 不用快捷键沿 Z 轴旋转立方体。作者截图。
 
@@ -64,7 +64,7 @@
 
 3. 最后用 LMB 确认缩放。
 
-![page_30_img_2.png](/images/page_30_img_2.png)
+![page_30_img_2.png](images/page_30_img_2.png)
 
 如何用快捷键沿某个轴缩放（调整大小）立方体？
 
@@ -74,15 +74,15 @@
 
 `S+X` —— 沿 X 轴缩放。
 
-![page_31_img_1.png](/images/page_31_img_1.png)
+![page_31_img_1.png](images/page_31_img_1.png)
 
 `S+Y` —— 沿 Y 轴缩放。
 
-![page_31_img_2.png](/images/page_31_img_2.png)
+![page_31_img_2.png](images/page_31_img_2.png)
 
 `S+Z` —— 沿 Z 轴缩放。
 
-![page_32_img_1.png](/images/page_32_img_1.png)
+![page_32_img_1.png](images/page_32_img_1.png)
 
 3. 最后用 LMB 确认缩放。
 
@@ -90,7 +90,7 @@
 
 1. 点击工具栏（箭头指向的位置）——点击缩放按钮启用它。
 
-![page_32_img_2.png](/images/page_32_img_2.png)
+![page_32_img_2.png](images/page_32_img_2.png)
 
 2. 会出现三条彩色线——每条颜色代表一个轴。
 
@@ -98,15 +98,15 @@
 
 4. 最后用 LMB 确认缩放。
 
-![page_33_img_1.png](/images/page_33_img_1.png)
+![page_33_img_1.png](images/page_33_img_1.png)
 
 不用快捷键沿 X 轴缩放立方体。作者截图。
 
-![page_33_img_2.png](/images/page_33_img_2.png)
+![page_33_img_2.png](images/page_33_img_2.png)
 
 不用快捷键沿 Y 轴缩放立方体。作者截图。
 
-![page_34_img_1.png](/images/page_34_img_1.png)
+![page_34_img_1.png](images/page_34_img_1.png)
 
 不用快捷键沿 Z 轴缩放立方体。作者截图。你已经学会了在物体模式下变换物体（移动、旋转和缩放）。
 
@@ -118,7 +118,7 @@
 
 ## 如何应用缩放到物体？
 
-![page_35_img_1.png](/images/page_35_img_1.png)
+![page_35_img_1.png](images/page_35_img_1.png)
 
 缩放。作者截图。
 
@@ -132,13 +132,13 @@
 
 X、Y 和 Z 的缩放数值应该始终保持 1。
 
-![page_36_img_1.png](/images/page_36_img_1.png)
+![page_36_img_1.png](images/page_36_img_1.png)
 
 要应用 Z（或 X、Y 如果需要）的缩放，按"CTRL+A"然后应用缩放。
 
 点击后所有数值都会被应用。不需要分别对 X、Y、Z 各做一次。
 
-![page_36_img_2.png](/images/page_36_img_2.png)
+![page_36_img_2.png](images/page_36_img_2.png)
 
 恭喜！现在你知道如何在 Blender 中移动、旋转和缩放立方体了！
 

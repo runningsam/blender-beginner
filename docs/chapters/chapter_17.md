@@ -2,21 +2,21 @@
 
 Go to render properties, and switch from Render engine Eevee to Cycles.
 
-![page_167_img_1.png](/images/page_167_img_1.png)
+![page_167_img_1.png](images/page_167_img_1.png)
 
 Also if you have a good graphics card, you can switch from CPU to GPU.
 
 Turn on the viewport denoise to get rid of the noise and make things easier for the eyes
 
-![page_167_img_2.png](/images/page_167_img_2.png)
+![page_167_img_2.png](images/page_167_img_2.png)
 
 Add a camera.
 
-![page_168_img_1.png](/images/page_168_img_1.png)
+![page_168_img_1.png](images/page_168_img_1.png)
 
 Click on the camera icon.
 
-![page_168_img_2.png](/images/page_168_img_2.png)
+![page_168_img_2.png](images/page_168_img_2.png)
 
 Click “N” to open the sidebar, go to view, and turn on camera to view.
 
@@ -26,13 +26,13 @@ If you want to move the whole camera, hold “SHIFT” and press the mouse wheel
 
 Change samples in render to 512 or even 256, because there is no need for 4096 samples in this case.
 
-![page_168_img_3.png](/images/page_168_img_3.png)
+![page_168_img_3.png](images/page_168_img_3.png)
 
-![page_169_img_1.png](/images/page_169_img_1.png)
+![page_169_img_1.png](images/page_169_img_1.png)
 
 When you are satisfied with it, turn off the camera to view, click Render, and render the image.
 
-![page_169_img_2.png](/images/page_169_img_2.png)
+![page_169_img_2.png](images/page_169_img_2.png)
 
 Congratulations! You just made your first render 🙂
 
