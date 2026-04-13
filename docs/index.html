@@ -8,14 +8,20 @@
 
 <body>
     <div id="app"></div>
-    <script>window.$docsify = { 
+    <script>
+        const isGitHub = window.location.href.indexOf('github.io') > -1;
+
+    window.$docsify = { 
+        basePath: isGitHub ? '/blender-beginner/' : '/',
         name: 'A Beginner\'s Guide to Blender (Chapters 1-31)', 
         loadSidebar: '../_sidebar.md', 
         loadNavbar: '../_navbar.md', 
         homepage: '../README.md', 
         subMaxLevel: 2,
-        relativePath: false 
-        }</script>
+        relativePath: false,
+        routerMode: 'history', //
+        }
+        </script>
     <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
 </body>
 
