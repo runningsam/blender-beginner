@@ -2,7 +2,7 @@
 
 A Beginner’s Guide to Blender
 
-![page_1_img_1.png](images/page_1_img_1.png)
+![page_1_img_1.png](../images/page_1_img_1.png)
 
 by Sandra Kolar, 2025
 

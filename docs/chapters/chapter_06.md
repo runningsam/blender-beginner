@@ -10,13 +10,13 @@ This small orange dot is called the origin point in Blender.
 
 It is located in the center of the object geometry.
 
-![page_41_img_1.png](images/page_41_img_1.png)
+![page_41_img_1.png](../images/page_41_img_1.png)
 
 You can make all transforms (move, rotate, scale) around the origin, but you can also change the origin point.
 
 If you want to change the origin point, go to object —> set origin —> and choose one of the options below.
 
-![page_41_img_2.png](images/page_41_img_2.png)
+![page_41_img_2.png](../images/page_41_img_2.png)
 
 Geometry to Origin - move object geometry to object origin.
 
@@ -40,11 +40,11 @@ The left arrow is pointing to where you can activate it.
 
 The right arrow is pointing to where it is currently located.
 
-![page_42_img_1.png](images/page_42_img_1.png)
+![page_42_img_1.png](../images/page_42_img_1.png)
 
 When you activate the 3D cursor, you are moving it around the scene by clicking the LMB.
 
-![page_43_img_1.png](images/page_43_img_1.png)
+![page_43_img_1.png](../images/page_43_img_1.png)
 
 When the 3D cursor is not activated, you can still move it around the scene by pressing and holding “SHIFT” and clicking RMB at the same time.
 

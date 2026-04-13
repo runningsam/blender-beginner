@@ -2,13 +2,13 @@
 
 现在终于可以打开 Blender 了。
 
-![page_13_img_1.png](images/page_13_img_1.png)
+![page_13_img_1.png](../images/page_13_img_1.png)
 
 Blender 启动界面。作者截图。
 
 首先，你会在场景中看到三个物体：相机、立方体和灯光。
 
-![page_13_img_2.png](images/page_13_img_2.png)
+![page_13_img_2.png](../images/page_13_img_2.png)
 
 相机、立方体、灯光。作者截图。
 
@@ -18,7 +18,7 @@ Blender 启动界面。作者截图。
 
 2. Blender 有很多快捷键。从一开始就尝试使用和学习它们，这样你的建模工作会轻松很多。
 
-![page_14_img_1.png](images/page_14_img_1.png)
+![page_14_img_1.png](../images/page_14_img_1.png)
 
 如果你点击这里，会出现一个下拉菜单，里面有不同的模式。首先我们来聊聊物体模式：在物体模式下，你可以移动、旋转和缩放（调整大小）物体，但不会改变它们的几何结构。
 
@@ -26,11 +26,11 @@ Blender 启动界面。作者截图。
 
 如果没有橙色轮廓，说明物体（在这里就是立方体）没有被选中。
 
-![page_15_img_1.png](images/page_15_img_1.png)
+![page_15_img_1.png](../images/page_15_img_1.png)
 
 如果有橙色轮廓，说明立方体被选中了。
 
-![page_15_img_2.png](images/page_15_img_2.png)
+![page_15_img_2.png](../images/page_15_img_2.png)
 
 如果你想取消选中立方体，在它外面点击一下。
 
@@ -40,13 +40,13 @@ Blender 启动界面。作者截图。
 
 这是大纲视图。它用来整理所有数据、选择和取消选择物体、隐藏或显示物体等等。
 
-![page_16_img_1.png](images/page_16_img_1.png)
+![page_16_img_1.png](../images/page_16_img_1.png)
 
 其他功能我以后再解释，但现在我想告诉你什么是活动物体，以及如何选择和取消选择它们。
 
 这是 Blender 中网格的标志。
 
-![page_16_img_2.png](images/page_16_img_2.png)
+![page_16_img_2.png](../images/page_16_img_2.png)
 
 你可以看到网格标志周围有灰色背景（我们稍后会讲什么是网格）。
 
@@ -58,11 +58,11 @@ Blender 启动界面。作者截图。
 
 在这个例子中，你的物体叫 Cube。
 
-![page_17_img_1.png](images/page_17_img_1.png)
+![page_17_img_1.png](../images/page_17_img_1.png)
 
 你可以通过看到立方体上的橙色轮廓来判断它被选中了，也可以通过看到物体名称（这里是 Cube）后面的蓝色背景来判断。
 
-![page_17_img_2.png](images/page_17_img_2.png)
+![page_17_img_2.png](../images/page_17_img_2.png)
 
 既然你知道了如何选中立方体，我们来试着移动它。
 
@@ -70,7 +70,7 @@ Blender 启动界面。作者截图。
 
 要删除一个物体（这里是相机），选中相机然后按"X"或"Del"键把它从场景中移除。灯光也一样可以删除。
 
-![page_18_img_1.png](images/page_18_img_1.png)
+![page_18_img_1.png](../images/page_18_img_1.png)
 
 场景清理干净后，终于可以移动立方体了。
 
@@ -80,7 +80,7 @@ Blender 启动界面。作者截图。
 
 如何用快捷键移动立方体？
 
-![page_19_img_1.png](images/page_19_img_1.png)
+![page_19_img_1.png](../images/page_19_img_1.png)
 
 1. 用 LMB 选中立方体。
 
@@ -92,15 +92,15 @@ Blender 启动界面。作者截图。
 
 ## Blender中的坐标系
 
-![page_20_img_1.png](images/page_20_img_1.png)
+![page_20_img_1.png](../images/page_20_img_1.png)
 
 X 和 Y 轴。作者截图。
 
-![page_20_img_2.png](images/page_20_img_2.png)
+![page_20_img_2.png](../images/page_20_img_2.png)
 
 X 和 Z 轴。作者截图。
 
-![page_20_img_3.png](images/page_20_img_3.png)
+![page_20_img_3.png](../images/page_20_img_3.png)
 
 显示 X、Y 和 Z 轴的 Gizmo。作者截图。
 
@@ -116,17 +116,17 @@ Z（蓝色的）——上下方向。
 
 如果想沿某个轴移动，只要按 G +（其中一个轴）。
 
-![page_21_img_1.png](images/page_21_img_1.png)
+![page_21_img_1.png](../images/page_21_img_1.png)
 
 沿 X 轴移动立方体。作者截图。
 
-![page_21_img_2.png](images/page_21_img_2.png)
+![page_21_img_2.png](../images/page_21_img_2.png)
 
 沿 Y 轴移动立方体。作者截图。
 
 沿 Z 轴移动立方体。作者截图。
 
-![page_22_img_1.png](images/page_22_img_1.png)
+![page_22_img_1.png](../images/page_22_img_1.png)
 
 G + X —— 沿 X 轴移动。
 
@@ -144,23 +144,23 @@ G + Z —— 沿 Z 轴移动。
 
 1. 点击这里（箭头指向的位置）——打开移动按钮。
 
-![page_23_img_1.png](images/page_23_img_1.png)
+![page_23_img_1.png](../images/page_23_img_1.png)
 
 2. 会出现三个箭头，每个颜色代表一个轴。
 
-![page_23_img_2.png](images/page_23_img_2.png)
+![page_23_img_2.png](../images/page_23_img_2.png)
 
 3. 选择你想要的箭头，然后按住它，往你想（并且能）的方向移动。
 
-![page_24_img_1.png](images/page_24_img_1.png)
+![page_24_img_1.png](../images/page_24_img_1.png)
 
 沿 X 轴移动立方体。作者截图。
 
-![page_24_img_2.png](images/page_24_img_2.png)
+![page_24_img_2.png](../images/page_24_img_2.png)
 
 沿 Y 轴移动立方体。作者截图。
 
-![page_25_img_1.png](images/page_25_img_1.png)
+![page_25_img_1.png](../images/page_25_img_1.png)
 
 沿 Z 轴移动立方体。作者截图。
 

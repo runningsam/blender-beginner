@@ -10,7 +10,7 @@
 
 你的目标会让蛋糕块从空中掉落，直接落到盘子上。
 
-![page_170_img_1.png](images/page_170_img_1.png)
+![page_170_img_1.png](../images/page_170_img_1.png)
 
 那么，怎么做呢？
 
@@ -18,7 +18,7 @@
 
 我像这样移动它们。
 
-![page_170_img_2.png](images/page_170_img_2.png)
+![page_170_img_2.png](../images/page_170_img_2.png)
 
 开始插入任何关键帧之前，确保蓝色指针（也叫播放头）在 1的位置。
 
@@ -26,17 +26,17 @@
 
 根据你想让动画从哪帧开始，把关键帧插到那个位置。
 
-![page_171_img_1.png](images/page_171_img_1.png)
+![page_171_img_1.png](../images/page_171_img_1.png)
 
 在我的动画里，我想让第一块蛋糕从第一帧就开始掉落，所以我把播放头放在那。定位播放头后，选择第一块蛋糕。
 
-![page_171_img_2.png](images/page_171_img_2.png)
+![page_171_img_2.png](../images/page_171_img_2.png)
 
 因为这是起始位置，你想把第一块蛋糕在第 1帧的位置做成关键帧。
 
 按"K"（之前的 Blender版本是"I"，如果你用旧版本别困惑）从"Insert Keyframe Menu"选择 Location。
 
-![page_172_img_1.png](images/page_172_img_1.png)
+![page_172_img_1.png](../images/page_172_img_1.png)
 
 这意味着你的动画从第 1帧开始，第一块蛋糕的位置在空中。
 
@@ -48,13 +48,13 @@
 
 当时间线上出现这个橙色/黄色菱形时，你就知道关键帧已插入。
 
-![page_172_img_2.png](images/page_172_img_2.png)
+![page_172_img_2.png](../images/page_172_img_2.png)
 
 现在把蓝色播放头从第一帧拖到你想让蛋糕块落到盘子上的帧。
 
 我想让第一块在第 30帧落到盘子。所以我把播放头移到那。
 
-![page_173_img_1.png](images/page_173_img_1.png)
+![page_173_img_1.png](../images/page_173_img_1.png)
 
 如果你想让蛋糕块掉得更慢，就把第二个关键帧放得离第一个更远。如果想让它们掉得更快，就把第二个关键帧放得离第一个更近（比如第 10帧或 15帧那样）。
 
@@ -68,7 +68,7 @@
 
 因为你的最终位置是盘子，第一块动画完成了，现在可以移到第二块蛋糕。
 
-![page_173_img_2.png](images/page_173_img_2.png)
+![page_173_img_2.png](../images/page_173_img_2.png)
 
 我之前的动画在第 30关键帧结束。我想让第二块蛋糕紧接第一块落到盘子后开始掉落。
 
@@ -76,7 +76,7 @@
 
 要让蛋糕块无延迟掉落，选择第二块蛋糕，把播放头放到第 30关键帧（你把它放到前一个动画的结束关键帧），再次按 K，把位置做成关键帧。
 
-![page_174_img_1.png](images/page_174_img_1.png)
+![page_174_img_1.png](../images/page_174_img_1.png)
 
 现在把蓝色播放头从第 30帧拖到你想让蛋糕块落到盘子的帧。
 
@@ -88,13 +88,13 @@
 
 把它吸附到盘子。然后把位置做成关键帧。
 
-![page_175_img_1.png](images/page_175_img_1.png)
+![page_175_img_1.png](../images/page_175_img_1.png)
 
 如果你点击箭头指向的位置，会自动跳到第一帧。现在点击播放按钮或"空格键"开始你的动画。
 
 停止动画也是同样的方式。
 
-![page_175_img_2.png](images/page_175_img_2.png)
+![page_175_img_2.png](../images/page_175_img_2.png)
 
 如果动画看起来不错，可以继续下一块蛋糕。
 
@@ -110,15 +110,15 @@
 
 选择第三块蛋糕，把播放头放到第 60关键帧。
 
-![page_176_img_1.png](images/page_176_img_1.png)
+![page_176_img_1.png](../images/page_176_img_1.png)
 
 把位置做成关键帧。
 
-![page_176_img_2.png](images/page_176_img_2.png)
+![page_176_img_2.png](../images/page_176_img_2.png)
 
 把播放头移到你想让蛋糕块落到盘子的帧。我这里是第 90帧。把蛋糕块吸附到盘子。把位置做成关键帧在第 90帧。
 
-![page_177_img_1.png](images/page_177_img_1.png)
+![page_177_img_1.png](../images/page_177_img_1.png)
 
 我想你现在明白剩下的蛋糕怎么做了。
 
@@ -130,15 +130,15 @@
 
 现在把蛋糕块吸附到盘子，把位置做成关键帧在选定的帧（我这里是第 120帧）。
 
-![page_177_img_2.png](images/page_177_img_2.png)
+![page_177_img_2.png](../images/page_177_img_2.png)
 
 如果你想移动时间线看更多数字，只要按 LMB 点击箭头指向的位置同时移动鼠标。
 
-![page_178_img_1.png](images/page_178_img_1.png)
+![page_178_img_1.png](../images/page_178_img_1.png)
 
 你也可以上下滚动鼠标滚轮放大缩小。
 
-![page_178_img_2.png](images/page_178_img_2.png)
+![page_178_img_2.png](../images/page_178_img_2.png)
 
 第五块来了。
 
@@ -148,7 +148,7 @@
 
 现在把蛋糕块吸附到盘子，把位置做成关键帧在选定的帧（我这里是第 150帧）。
 
-![page_179_img_1.png](images/page_179_img_1.png)
+![page_179_img_1.png](../images/page_179_img_1.png)
 
 第六块来了。
 
@@ -158,7 +158,7 @@
 
 现在把蛋糕块吸附到盘子，把位置做成关键帧在选定的帧（我这里是第 180帧）。
 
-![page_179_img_2.png](images/page_179_img_2.png)
+![page_179_img_2.png](../images/page_179_img_2.png)
 
 第七块来了。
 
@@ -168,7 +168,7 @@
 
 现在把蛋糕块吸附到盘子，把位置做成关键帧在选定的帧（我这里是第 210帧）。
 
-![page_180_img_1.png](images/page_180_img_1.png)
+![page_180_img_1.png](../images/page_180_img_1.png)
 
 第八块来了。
 
@@ -178,7 +178,7 @@
 
 现在把蛋糕块吸附到盘子，把位置做成关键帧在选定的帧（我这里是第 240帧）。
 
-![page_180_img_2.png](images/page_180_img_2.png)
+![page_180_img_2.png](../images/page_180_img_2.png)
 
 第九块也是最后一块来了。
 
@@ -186,27 +186,27 @@
 
 把播放头移到你想让第九块落到盘子的帧。我会选第 270帧。把位置做成关键帧。
 
-![page_181_img_1.png](images/page_181_img_1.png)
+![page_181_img_1.png](../images/page_181_img_1.png)
 
 即使你可以给那帧添加关键帧，如果你开始动画，动画只播到 250帧。
 
 要添加更多帧，只要把这个"END"数字改成更大的数。
 
-![page_181_img_2.png](images/page_181_img_2.png)
+![page_181_img_2.png](../images/page_181_img_2.png)
 
 我会改成 600。
 
 现在你有更多帧了。
 
-![page_181_img_3.png](images/page_181_img_3.png)
+![page_181_img_3.png](../images/page_181_img_3.png)
 
 如果你再开始动画，就有足够的帧播放整个动画了。
 
-![page_182_img_1.png](images/page_182_img_1.png)
+![page_182_img_1.png](../images/page_182_img_1.png)
 
 所以，刚做完整个动画后，把 End 改成你最后那一帧的数字。这里是 270。
 
-![page_182_img_2.png](images/page_182_img_2.png)
+![page_182_img_2.png](../images/page_182_img_2.png)
 
 你的动画完成了！你可以再开始检查一切是否正常。
 

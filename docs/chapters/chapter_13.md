@@ -8,15 +8,15 @@ Switch to edit mode with “TAB”.
 
 You can activate “Loop cut” by clicking where the arrow is pointing.
 
-![page_88_img_1.png](images/page_88_img_1.png)
+![page_88_img_1.png](../images/page_88_img_1.png)
 
 When you activate the “Loop cut” tool and move the mouse near the object, in this case a cube, loops will appear.
 
-![page_88_img_2.png](images/page_88_img_2.png)
+![page_88_img_2.png](../images/page_88_img_2.png)
 
 You can confirm the loop cut with the LMB.
 
-![page_89_img_1.png](images/page_89_img_1.png)
+![page_89_img_1.png](../images/page_89_img_1.png)
 
 I will show you the shortcut for the loop cut right away because it is so much easier to use it while modeling.
 
@@ -26,11 +26,11 @@ When you confirm it with LMB, you can move it by moving the mouse left, right, u
 
 When you are satisfied with the position, just confirm it with LMB.
 
-![page_89_img_2.png](images/page_89_img_2.png)
+![page_89_img_2.png](../images/page_89_img_2.png)
 
 Before confirming it with LMB, if you scroll the mouse wheel up or down, your loop cuts will increase or decrease.
 
-![page_90_img_1.png](images/page_90_img_1.png)
+![page_90_img_1.png](../images/page_90_img_1.png)
 
 After you click LMB once again, you can move them with the mouse, and if you click the LMB for the third time, you will confirm the position of your loops.
 
@@ -42,15 +42,15 @@ Actually, I will show it quickly right away.
 
 You have a cube on the scene like this.
 
-![page_90_img_2.png](images/page_90_img_2.png)
+![page_90_img_2.png](../images/page_90_img_2.png)
 
 If you add a loop cut like this
 
-![page_90_img_3.png](images/page_90_img_3.png)
+![page_90_img_3.png](../images/page_90_img_3.png)
 
 And then grab this top edge with “`G+Z`” up, you will get a….
 
-![page_91_img_1.png](images/page_91_img_1.png)
+![page_91_img_1.png](../images/page_91_img_1.png)
 
 ## HOUSE!
 
