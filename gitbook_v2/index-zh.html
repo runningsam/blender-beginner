@@ -4,35 +4,17 @@
   <meta charset="UTF-8">
   <title>Blender 初学者指南（第24-31章）</title>
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
-  <style>
-    .lang-link {
-      position: fixed;
-      top: 60px;
-      right: 20px;
-      z-index: 100;
-      background: #42b983;
-      color: white;
-      padding: 8px 16px;
-      border-radius: 4px;
-      font-size: 14px;
-      text-decoration: none;
-    }
-    .lang-link:hover {
-      background: #35495e;
-    }
-  </style>
 </head>
 <body>
-  <a href="index.html" class="lang-link">English / 英文版</a>
   <div id="app"></div>
   <script>
     window.$docsify = {
       name: 'Blender 初学者指南（第24-31章）',
       loadSidebar: '_sidebar-zh.md',
+      loadNavbar: '_navbar-zh.md',
       homepage: 'README-zh.md',
       subMaxLevel: 2,
       alias: {
-        // 映射所有章节链接到中文版本
         '/chapters/(.*).md': 'chapters/$1-zh.md',
       }
     }
