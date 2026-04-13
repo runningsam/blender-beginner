@@ -1,4 +1,4 @@
-# A Beginner’s Guide to Blender (Chapters 1-23)
+# A Beginner’s Guide to Blender (Chapters 1-31)
 
 A Beginner’s Guide to Blender
 

@@ -1,4 +1,4 @@
-# Blender 初学者指南（第1-23章）
+# Blender 初学者指南（第1-31章）
 
 Blender 初学者指南
 
