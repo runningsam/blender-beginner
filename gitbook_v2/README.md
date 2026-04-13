@@ -1,5 +1,7 @@
 # Free Blender Guide (Chapters 24-31)
 
+> 🌐 **Language**: [中文版 / Chinese](index-zh.html) | English
+
 ## BEGINNER’S GUIDE TO BLENDER
 
 ![page_1_img_1.png](../images/page_1_img_1.png)

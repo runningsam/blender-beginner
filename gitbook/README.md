@@ -1,4 +1,6 @@
-# A Beginner's Guide to Blender (Chapters 1-23)
+# A Beginner’s Guide to Blender (Chapters 1-23)
+
+> 🌐 **Language**: [中文版 / Chinese](index-zh.html) | English
 
 A Beginner’s Guide to Blender
 

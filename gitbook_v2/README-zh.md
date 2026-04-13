@@ -1,5 +1,7 @@
 # Free Blender Guide（第24-31章）
 
+> 🌐 **语言**: 中文版 | [English / 英文版](index.html)
+
 ## BLENDER 初学者指南
 
 ![page_1_img_1.png](../images/page_1_img_1.png)
