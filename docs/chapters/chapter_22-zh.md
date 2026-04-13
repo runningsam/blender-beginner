@@ -4,27 +4,27 @@
 
 首先，如果还没，把第二个物体重命名为 Hay_bale_plastic（或类似的）。
 
-![page_262_img_1.png](images/page_262_img_1.png)
+![page_262_img_1.png](/images/page_262_img_1.png)
 
 如果你看不到塑料，像我的情况
 
-![page_262_img_2.png](images/page_262_img_2.png)
+![page_262_img_2.png](/images/page_262_img_2.png)
 
 用"S"放大一点。
 
-![page_262_img_3.png](images/page_262_img_3.png)
+![page_262_img_3.png](/images/page_262_img_3.png)
 
 选择 Hay_bale，去材质属性。
 
-![page_263_img_1.png](images/page_263_img_1.png)
+![page_263_img_1.png](/images/page_263_img_1.png)
 
 把材质重命名为 Hay_bale。
 
-![page_263_img_2.png](images/page_263_img_2.png)
+![page_263_img_2.png](/images/page_263_img_2.png)
 
 选择 Hay_bale_plastic，去材质属性。
 
-![page_264_img_1.png](images/page_264_img_1.png)
+![page_264_img_1.png](/images/page_264_img_1.png)
 
 因为你在开始时复制并分离了物体，它们共享相同的材质。这个"2"显示这个数据的用户数量，或者简单说，它显示有相同材质的物体数量。
 
@@ -34,79 +34,79 @@
 
 第一种方式是点击数字"2"。这样，你创建了一个新的分离材质。现在只需要重命名为其他名称，
 
-![page_264_img_2.png](images/page_264_img_2.png)
+![page_264_img_2.png](/images/page_264_img_2.png)
 
 就完成了。
 
-![page_265_img_1.png](images/page_265_img_1.png)
+![page_265_img_1.png](/images/page_265_img_1.png)
 
 第二种方式是直接点击 minus，删除 Hay_bale_plastic 上的材质
 
-![page_265_img_2.png](images/page_265_img_2.png)
+![page_265_img_2.png](/images/page_265_img_2.png)
 
 点击"+"添加新材质，重命名为 Hay_bale_plastic。你可以看到数字二消失了，因为这个材质只在一个物体上。
 
-![page_266_img_1.png](images/page_266_img_1.png)
+![page_266_img_1.png](/images/page_266_img_1.png)
 
 两种都是正确的方式，所以取决于你想用哪种。
 
 把 Hay_bale_plastic 材质的 Base Color 改成黑色（或你想要的任何颜色）。
 
-![page_266_img_2.png](images/page_266_img_2.png)
+![page_266_img_2.png](/images/page_266_img_2.png)
 
 把 Roughness 改成大约 0.3
 
-![page_266_img_3.png](images/page_266_img_3.png)
+![page_266_img_3.png](/images/page_266_img_3.png)
 
 选择 Hay_bale。
 
 把光标放在屏幕上方如图所示，当看到加号，
 
-![page_267_img_1.png](images/page_267_img_1.png)
+![page_267_img_1.png](/images/page_267_img_1.png)
 
 按住左键往左下方拖动。
 
-![page_267_img_2.png](images/page_267_img_2.png)
+![page_267_img_2.png](/images/page_267_img_2.png)
 
 在你刚创建的窗口打开着色编辑器。
 
 按"N"隐藏右边侧栏，因为你不需要它。
 
-![page_267_img_3.png](images/page_267_img_3.png)
+![page_267_img_3.png](/images/page_267_img_3.png)
 
 把 Principled BSDF 的 Base Color 连接到 Color Ramp 的 Color。
 
 我添加了 Color Ramp，因为我想有超过一种颜色的变化，用 Color Ramp 做最好。
 
-![page_268_img_1.png](images/page_268_img_1.png)
+![page_268_img_1.png](/images/page_268_img_1.png)
 
 把 Color Ramp 的第一个颜色改成浅棕色和黄色的组合。
 
-![page_268_img_2.png](images/page_268_img_2.png)
+![page_268_img_2.png](/images/page_268_img_2.png)
 
 把 Color Ramp 的第二个颜色改成浅黄色。
 
-![page_268_img_3.png](images/page_268_img_3.png)
+![page_268_img_3.png](/images/page_268_img_3.png)
 
 把 Color Ramp 的 Fac 连接到 Noise Texture 的 Fac。
 
-![page_269_img_1.png](images/page_269_img_1.png)
+![page_269_img_1.png](/images/page_269_img_1.png)
 
 把 Noise Texture 的 Vector 连接到 Mapping 的 Vector。
 
-![page_269_img_2.png](images/page_269_img_2.png)
+![page_269_img_2.png](/images/page_269_img_2.png)
 
 把 Mapping 的 Vector 连接到 Texture Coordinate 的 Object。
 
-![page_269_img_3.png](images/page_269_img_3.png)
+![page_269_img_3.png](/images/page_269_img_3.png)
 
 把 Noise Texture 的 Scale 改成大约 13.300。
 
-![page_270_img_1.png](images/page_270_img_1.png)
+![page_270_img_1.png](/images/page_270_img_1.png)
 
 如果你满意 Hay Bale 的颜色和外观，选择相机，调整它。
 
-![page_270_img_2.png](images/page_270_img_2.png)
+![page_270_img_2.png](/images/page_270_img_2.png)
 
 当你满意后，关闭 Camera to View，这样可以自由移动而不丢失完美的渲染角度。
 
@@ -114,15 +114,15 @@
 
 这次，选择 Join Areas，按左键确认合并。
 
-![page_271_img_1.png](images/page_271_img_1.png)
+![page_271_img_1.png](/images/page_271_img_1.png)
 
 把渲染 Samples 改成 512，因为这种情况不需要 4096采样。
 
-![page_271_img_2.png](images/page_271_img_2.png)
+![page_271_img_2.png](/images/page_271_img_2.png)
 
 现在可以渲染了。
 
-![page_272_img_1.png](images/page_272_img_1.png)
+![page_272_img_1.png](/images/page_272_img_1.png)
 
 恭喜！你学会了如何在 Blender 中建模和给干草捆添加纹理！
 

@@ -4,11 +4,11 @@
 
 在物体模式下只剩一个按钮可以用来变换物体了。跟移动、缩放和旋转按钮不同——那些只能一次做一个操作——变换按钮可以同时进行移动、旋转和缩放的任意组合。
 
-![page_37_img_1.png](images/page_37_img_1.png)
+![page_37_img_1.png](/images/page_37_img_1.png)
 
 我在刚开始学 Blender 的时候可能用了三次这个按钮，但现在我根本不用了。不过了解一下它的用途还是好的。
 
-![page_37_img_2.png](images/page_37_img_2.png)
+![page_37_img_2.png](/images/page_37_img_2.png)
 
 标注按钮
 
@@ -18,27 +18,27 @@
 
 如果你点击标注按钮，会出现一个下拉菜单。
 
-![page_38_img_1.png](images/page_38_img_1.png)
+![page_38_img_1.png](/images/page_38_img_1.png)
 
 你可以选择标注、标注线条、标注多边形和标注橡皮擦。这些工具都很容易理解，我就不多解释了。
 
 你甚至可以改变颜色、透明度、粗细、稳定笔画等等……
 
-![page_38_img_2.png](images/page_38_img_2.png)
+![page_38_img_2.png](/images/page_38_img_2.png)
 
 测量按钮
 
 测量按钮用于测量距离和角度。
 
-![page_39_img_1.png](images/page_39_img_1.png)
+![page_39_img_1.png](/images/page_39_img_1.png)
 
 按住 LMB 并拖动来测量你想要的内容。
 
-![page_39_img_2.png](images/page_39_img_2.png)
+![page_39_img_2.png](/images/page_39_img_2.png)
 
 拖动标尺段来测量角度。
 
-![page_40_img_1.png](images/page_40_img_1.png)
+![page_40_img_1.png](/images/page_40_img_1.png)
 
 如果按"X"，会删除活动标尺。
 
@@ -48,6 +48,6 @@
 
 添加立方体按钮
 
-![page_40_img_2.png](images/page_40_img_2.png)
+![page_40_img_2.png](/images/page_40_img_2.png)
 
 这个按钮很简单，我就不多解释了。你只需要选择想添加到场景中的物体（立方体、圆锥、圆柱、UV球体或 Ico球体），然后画到场景里就行了。

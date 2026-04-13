@@ -12,35 +12,35 @@
 
 用"A"选择所有东西，然后按"X"删除。
 
-![page_126_img_1.png](images/page_126_img_1.png)
+![page_126_img_1.png](/images/page_126_img_1.png)
 
 现在按"SHIFT+A"，去 `Add mesh → Circle`
 
-![page_126_img_2.png](images/page_126_img_2.png)
+![page_126_img_2.png](/images/page_126_img_2.png)
 
 用"TAB"切换到编辑模式。
 
 按"F"填充整个圆。
 
-![page_127_img_1.png](images/page_127_img_1.png)
+![page_127_img_1.png](/images/page_127_img_1.png)
 
 用"E"沿 Z轴挤出一点点。
 
 像这样。
 
-![page_127_img_2.png](images/page_127_img_2.png)
+![page_127_img_2.png](/images/page_127_img_2.png)
 
 选择底部面，用"S"缩放。
 
-![page_127_img_3.png](images/page_127_img_3.png)
+![page_127_img_3.png](/images/page_127_img_3.png)
 
 用"I"内插新面。
 
-![page_127_img_4.png](images/page_127_img_4.png)
+![page_127_img_4.png](/images/page_127_img_4.png)
 
 再做一次。
 
-![page_128_img_1.png](images/page_128_img_1.png)
+![page_128_img_1.png](/images/page_128_img_1.png)
 
 现在，来学点新东西。
 
@@ -48,53 +48,53 @@
 
 今天，你将学习如何选择环。我想选择这里的这个环。
 
-![page_128_img_2.png](images/page_128_img_2.png)
+![page_128_img_2.png](/images/page_128_img_2.png)
 
 怎么做呢？
 
 选择环时要按住"ALT"然后点击 LMB。但有一点要注意。如果你选择这个面，你不会得到环选择，而是这个。
 
-![page_128_img_3.png](images/page_128_img_3.png)
+![page_128_img_3.png](/images/page_128_img_3.png)
 
 要选择任何"圆形"的环，你需要选择边而不是面。如果你点击那些边中的任意一条，就能得到正确的选择。
 
-![page_129_img_1.png](images/page_129_img_1.png)
+![page_129_img_1.png](/images/page_129_img_1.png)
 
 现在，一个问题：如果我想选择这个环，怎么做？
 
-![page_129_img_2.png](images/page_129_img_2.png)
+![page_129_img_2.png](/images/page_129_img_2.png)
 
 没错！就像之前那样，按住"ALT"，点击那个圆形环中任意一条中间边的 LMB。
 
 任何蓝色的边都可以。
 
-![page_129_img_3.png](images/page_129_img_3.png)
+![page_129_img_3.png](/images/page_129_img_3.png)
 
 但如果你选择这条边，你会得到这个结果。
 
-![page_130_img_1.png](images/page_130_img_1.png)
+![page_130_img_1.png](/images/page_130_img_1.png)
 
 好了，现在我们可以继续建模盘子了。
 
 我们用"ALT"和 LMB 选择了这个环。
 
-![page_130_img_2.png](images/page_130_img_2.png)
+![page_130_img_2.png](/images/page_130_img_2.png)
 
 用"E"往下挤出一点点。
 
-![page_130_img_3.png](images/page_130_img_3.png)
+![page_130_img_3.png](/images/page_130_img_3.png)
 
 然后选择盘子的顶部面，用"I"内插新面。
 
-![page_131_img_1.png](images/page_131_img_1.png)
+![page_131_img_1.png](/images/page_131_img_1.png)
 
 用"E"往下挤出。
 
-![page_131_img_2.png](images/page_131_img_2.png)
+![page_131_img_2.png](/images/page_131_img_2.png)
 
 用"S"缩放。
 
-![page_131_img_3.png](images/page_131_img_3.png)
+![page_131_img_3.png](/images/page_131_img_3.png)
 
 现在来学习修改器。
 
@@ -102,7 +102,7 @@
 
 点击写着"Modifiers"的扳手图标。
 
-![page_131_img_4.png](images/page_131_img_4.png)
+![page_131_img_4.png](/images/page_131_img_4.png)
 
 修改器让你能以非破坏性的方式改变物体的几何结构。
 
@@ -116,23 +116,23 @@
 
 但如果你做了太多步骤，可能没法撤销那个操作，就只能接受倒角的结果。如果那不是你想要的结果，你可能要从头开始建模。
 
-![page_132_img_1.png](images/page_132_img_1.png)
+![page_132_img_1.png](/images/page_132_img_1.png)
 
 但如果你添加一个倒角修改器，点击 `Add modifier → Generate → Bevel`，
 
-![page_132_img_2.png](images/page_132_img_2.png)
+![page_132_img_2.png](/images/page_132_img_2.png)
 
 你会得到这个。
 
-![page_133_img_1.png](images/page_133_img_1.png)
+![page_133_img_1.png](/images/page_133_img_1.png)
 
 在这里
 
-![page_133_img_2.png](images/page_133_img_2.png)
+![page_133_img_2.png](/images/page_133_img_2.png)
 
 你可以随时改变倒角的量和段数。
 
-![page_133_img_3.png](images/page_133_img_3.png)
+![page_133_img_3.png](/images/page_133_img_3.png)
 
 是的，用倒角工具可以达到类似的效果，但用修改器你可以随时调整倒角段数和量——不像倒角工具，一旦应用更改就固定了。
 
@@ -148,11 +148,11 @@
 
 因为你目前在编辑模式，修改器只能在物体模式下应用。
 
-![page_134_img_1.png](images/page_134_img_1.png)
+![page_134_img_1.png](/images/page_134_img_1.png)
 
 要应用修改器，确保先切换到物体模式。
 
-![page_134_img_2.png](images/page_134_img_2.png)
+![page_134_img_2.png](/images/page_134_img_2.png)
 
 现在你知道了修改器，该给盘子添加修改器了。
 
@@ -166,21 +166,21 @@
 
 `Add modifier → Generate → Subdivision` surface
 
-![page_134_img_3.png](images/page_134_img_3.png)
+![page_134_img_3.png](/images/page_134_img_3.png)
 
 这是我们盘子目前的样子。
 
-![page_135_img_1.png](images/page_135_img_1.png)
+![page_135_img_1.png](/images/page_135_img_1.png)
 
-![page_135_img_2.png](images/page_135_img_2.png)
+![page_135_img_2.png](/images/page_135_img_2.png)
 
 但你可以看到一些额外选项。现在我不会解释 render 是什么意思，只要关注 levels viewport 数值。
 
-![page_135_img_3.png](images/page_135_img_3.png)
+![page_135_img_3.png](/images/page_135_img_3.png)
 
 现在是 1。但如果改成 2 呢？
 
-![page_135_img_4.png](images/page_135_img_4.png)
+![page_135_img_4.png](/images/page_135_img_4.png)
 
 那 3 呢？
 
@@ -188,11 +188,11 @@
 
 这个例子我会设为 3。
 
-![page_136_img_1.png](images/page_136_img_1.png)
+![page_136_img_1.png](/images/page_136_img_1.png)
 
 现在切换到编辑模式，用"I"在底部内插新面。
 
-![page_136_img_2.png](images/page_136_img_2.png)
+![page_136_img_2.png](/images/page_136_img_2.png)
 
 如果你遇到和我一样的问题——因为细分修改器看不清你在选什么，
 
@@ -200,59 +200,59 @@
 
 要禁用它，点击这个第三个"屏幕"图标
 
-![page_136_img_3.png](images/page_136_img_3.png)
+![page_136_img_3.png](/images/page_136_img_3.png)
 
 现在你能看清你在做什么了。
 
-![page_136_img_4.png](images/page_136_img_4.png)
+![page_136_img_4.png](/images/page_136_img_4.png)
 
 终于可以用"I"在底部内插新面了。
 
-![page_137_img_1.png](images/page_137_img_1.png)
+![page_137_img_1.png](/images/page_137_img_1.png)
 
 再来一次。
 
-![page_137_img_2.png](images/page_137_img_2.png)
+![page_137_img_2.png](/images/page_137_img_2.png)
 
 现在你可以再打开细分修改器看看盘子怎么样。
 
-![page_137_img_3.png](images/page_137_img_3.png)
+![page_137_img_3.png](/images/page_137_img_3.png)
 
 现在按"M"合并到中心。
 
-![page_138_img_1.png](images/page_138_img_1.png)
+![page_138_img_1.png](/images/page_138_img_1.png)
 
 盘子底部完成了，
 
-![page_138_img_2.png](images/page_138_img_2.png)
+![page_138_img_2.png](/images/page_138_img_2.png)
 
 现在去盘子顶部。
 
-![page_138_img_3.png](images/page_138_img_3.png)
+![page_138_img_3.png](/images/page_138_img_3.png)
 
 你可以在视口再关掉修改器，这样能看清你在做什么。
 
 选择顶部面，用"I"内插。
 
-![page_138_img_4.png](images/page_138_img_4.png)
+![page_138_img_4.png](/images/page_138_img_4.png)
 
 选择顶部面，用"I"内插。
 
-![page_139_img_1.png](images/page_139_img_1.png)
+![page_139_img_1.png](/images/page_139_img_1.png)
 
 再做两次。
 
-![page_139_img_2.png](images/page_139_img_2.png)
+![page_139_img_2.png](/images/page_139_img_2.png)
 
 现在你可以再打开细分修改器看看盘子怎么样。现在按"M"合并到中心。
 
-![page_139_img_3.png](images/page_139_img_3.png)
+![page_139_img_3.png](/images/page_139_img_3.png)
 
 最后切换到物体模式。
 
 右键选择 Shade smooth 平滑你的物体。
 
-![page_140_img_1.png](images/page_140_img_1.png)
+![page_140_img_1.png](/images/page_140_img_1.png)
 
 你有一个盘子了！
 

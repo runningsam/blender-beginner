@@ -16,10 +16,10 @@
 
 （平面、立方体、圆、UV球体、Ico球体、圆柱、圆锥、圆环……）。
 
-![page_44_img_1.png](images/page_44_img_1.png)
+![page_44_img_1.png](/images/page_44_img_1.png)
 
 第二种是用快捷键（试着记住这个方法，建模会更轻松快捷）。
 
 只要按"SHIFT+A"，你会看到这个菜单。选择 Mesh，然后添加你想要的物体。
 
-![page_45_img_1.png](images/page_45_img_1.png)
+![page_45_img_1.png](/images/page_45_img_1.png)

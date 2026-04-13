@@ -2,7 +2,7 @@
 
 Blender 初学者指南
 
-![page_1_img_1.png](images/page_1_img_1.png)
+![page_1_img_1.png](/images/page_1_img_1.png)
 
 作者：Sandra Kolar，2025年
 
