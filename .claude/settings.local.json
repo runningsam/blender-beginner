@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p ~/.claude/skills/translate-book)",
+      "Bash(curl -sL https://raw.githubusercontent.com/ac1982/translate-book/main/SKILL.md -o ~/.claude/skills/translate-book/SKILL.md)"
+    ]
+  }
+}
