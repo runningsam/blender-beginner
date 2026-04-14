@@ -41,16 +41,16 @@ jobs:
         run: |
           if [ ! -f "nextjs-docs/out/images/.optimized" ]; then
             echo "Converting JPEG files masquerading as PNG..."
-            cd nextjs-docs/out/images
-            for f in *.png; do
+            for f in nextjs-docs/out/images/*.png; do
               if file "$f" | grep -q JPEG; then
-                echo "Converting $f (JPEG -> PNG)"
-                convert "$f" "temp.png" && mv temp.png "$f"
+                filename=$(basename "$f")
+                echo "Converting $filename (JPEG -> PNG)"
+                convert "$f" "$f"
               fi
             done
             echo "Optimizing images with pngquant..."
-            cd .. && pngquant --quality=80-100 --speed=1 --force --ext .png out/images/*.png
-            touch out/images/.optimized
+            pngquant --quality=80-100 --speed=1 --force --ext .png nextjs-docs/out/images/*.png
+            touch nextjs-docs/out/images/.optimized
             echo "Images optimized!"
           else
             echo "Using cached optimized images"
