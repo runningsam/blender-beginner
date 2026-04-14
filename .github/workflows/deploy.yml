@@ -38,19 +38,19 @@ jobs:
             images-
 
       - name: Optimize images (if not cached)
+        working-directory: nextjs-docs/out/images
         run: |
-          if [ ! -f "nextjs-docs/out/images/.optimized" ]; then
+          if [ ! -f ".optimized" ]; then
             echo "Converting JPEG files masquerading as PNG..."
-            for f in nextjs-docs/out/images/*.png; do
+            for f in *.png; do
               if file "$f" | grep -q JPEG; then
-                filename=$(basename "$f")
-                echo "Converting $filename (JPEG -> PNG)"
+                echo "Converting $f (JPEG -> PNG)"
                 convert "$f" "$f"
               fi
             done
             echo "Optimizing images with pngquant..."
-            pngquant --quality=80-100 --speed=1 --force --ext .png nextjs-docs/out/images/*.png
-            touch nextjs-docs/out/images/.optimized
+            pngquant --quality=80-100 --speed=1 --force --ext .png *.png
+            touch .optimized
             echo "Images optimized!"
           else
             echo "Using cached optimized images"
