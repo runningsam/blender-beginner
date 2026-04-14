@@ -1,0 +1,74 @@
+name: Build and Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: nextjs-docs/package-lock.json
+
+      - name: Install dependencies
+        run: cd nextjs-docs && npm ci
+
+      - name: Install pngquant
+        run: sudo apt-get install -y pngquant
+
+      - name: Build Next.js
+        run: cd nextjs-docs && npm run build
+
+      - name: Cache optimized images
+        uses: actions/cache@v4
+        with:
+          path: nextjs-docs/out/images
+          key: images-${{ hashFiles('nextjs-docs/public/images/**') }}
+          restore-keys: |
+            images-
+
+      - name: Optimize images (if not cached)
+        run: |
+          if [ ! -f "nextjs-docs/out/images/.optimized" ]; then
+            echo "Optimizing images with pngquant..."
+            cd nextjs-docs && pngquant --quality=80-100 --speed=1 --force --ext .png out/images/*.png
+            touch out/images/.optimized
+            echo "Images optimized!"
+          else
+            echo "Using cached optimized images"
+          fi
+
+      - name: Add .nojekyll
+        run: touch nextjs-docs/out/.nojekyll
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: nextjs-docs/out
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+
+    permissions:
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
