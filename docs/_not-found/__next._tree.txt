@@ -1,2 +1,2 @@
-:HL["/blender-beginner/_next/static/chunks/0ojiqowg8rhbf.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"5lflukkJKI8_AB6m2rB_7"}
+:HL["/blender-beginner/_next/static/chunks/15rk.prpvc1ng.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"31Ab67tZFLxxU-lGEk_N3"}
